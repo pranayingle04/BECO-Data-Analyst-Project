@@ -1,0 +1,2501 @@
+Customer_ID,Customer_Name,City,State,Customer_Segment
+CUST-0001,Riya Banerjee,Chennai,Tamil Nadu,Standard
+CUST-0002,Vikram Gupta,Kolkata,West Bengal,Standard
+CUST-0003,Priya Nair,Kolkata,West Bengal,Frequent Buyer
+CUST-0004,Ananya Nair,Hyderabad,Telangana,Frequent Buyer
+CUST-0005,Ananya Chopra,Hyderabad,Telangana,Standard
+CUST-0006,Diya Rao,Jaipur,Rajasthan,Standard
+CUST-0007,Ishita Reddy,Jaipur,Rajasthan,Standard
+CUST-0008,Diya Kulkarni,Pune,Maharashtra,VIP Customer
+CUST-0009,Rohan Joshi,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0010,Siddharth Kulkarni,Bengaluru,Karnataka,Standard
+CUST-0011,Kavya Verma,Ahmedabad,Gujarat,Standard
+CUST-0012,Ananya Mehta,Jaipur,Rajasthan,Standard
+CUST-0013,Diya Banerjee,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0014,Kavya Sharma,Pune,Maharashtra,Standard
+CUST-0015,Priya Verma,Kolkata,West Bengal,Standard
+CUST-0016,Pooja Mehta,Hyderabad,Telangana,Standard
+CUST-0017,Diya Verma,Thane,Maharashtra,Standard
+CUST-0018,Kavya Reddy,Delhi,Delhi,VIP Customer
+CUST-0019,Kavya Kulkarni,Kolkata,West Bengal,Standard
+CUST-0020,Ishita Banerjee,Kolkata,West Bengal,Standard
+CUST-0021,Rahul Rao,Bengaluru,Karnataka,Standard
+CUST-0022,Vikram Rao,Mumbai,Maharashtra,Frequent Buyer
+CUST-0023,Karan Patel,Kolkata,West Bengal,Frequent Buyer
+CUST-0024,Rohan Sharma,Pune,Maharashtra,Frequent Buyer
+CUST-0025,Vikram Gupta,Jaipur,Rajasthan,Standard
+CUST-0026,Siddharth Nair,Chennai,Tamil Nadu,Standard
+CUST-0027,Ishita Kulkarni,Mumbai,Maharashtra,Standard
+CUST-0028,Aditya Patel,Kolkata,West Bengal,Standard
+CUST-0029,Rohan Sharma,Hyderabad,Telangana,Standard
+CUST-0030,Aarav Joshi,Pune,Maharashtra,Standard
+CUST-0031,Siddharth Reddy,Chennai,Tamil Nadu,Standard
+CUST-0032,Rahul Patel,Jaipur,Rajasthan,Standard
+CUST-0033,Varun Mehta,Chennai,Tamil Nadu,Standard
+CUST-0034,Aditya Kulkarni,Delhi,Delhi,Frequent Buyer
+CUST-0035,Rahul Kulkarni,Delhi,Delhi,Standard
+CUST-0036,Ananya Gupta,Hyderabad,Telangana,Frequent Buyer
+CUST-0037,Sneha Chopra,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0038,Karan Gupta,Delhi,Delhi,Standard
+CUST-0039,Vikram Shah,Ahmedabad,Gujarat,Standard
+CUST-0040,Riya Banerjee,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0041,Sneha Nair,Chennai,Tamil Nadu,Standard
+CUST-0042,Aarav Patel,Bengaluru,Karnataka,Standard
+CUST-0043,Amit Singh,Kolkata,West Bengal,Standard
+CUST-0044,Siddharth Mehta,Kolkata,West Bengal,Standard
+CUST-0045,Riya Chopra,Mumbai,Maharashtra,Standard
+CUST-0046,Rohan Sharma,Thane,Maharashtra,Standard
+CUST-0047,Varun Singh,Kolkata,West Bengal,Frequent Buyer
+CUST-0048,Aditya Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-0049,Diya Gupta,Thane,Maharashtra,VIP Customer
+CUST-0050,Priya Kulkarni,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0051,Sneha Nair,Mumbai,Maharashtra,Standard
+CUST-0052,Sneha Deshmukh,Thane,Maharashtra,Standard
+CUST-0053,Siddharth Chopra,Mumbai,Maharashtra,Standard
+CUST-0054,Riya Chopra,Pune,Maharashtra,Frequent Buyer
+CUST-0055,Rohan Reddy,Pune,Maharashtra,Standard
+CUST-0056,Riya Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0057,Meera Nair,Chennai,Tamil Nadu,Standard
+CUST-0058,Meera Kulkarni,Ahmedabad,Gujarat,Standard
+CUST-0059,Rohan Kulkarni,Jaipur,Rajasthan,Frequent Buyer
+CUST-0060,Ishita Rao,Jaipur,Rajasthan,Standard
+CUST-0061,Ananya Sharma,Mumbai,Maharashtra,Standard
+CUST-0062,Aditya Singh,Bengaluru,Karnataka,Standard
+CUST-0063,Rohan Patel,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0064,Riya Nair,Pune,Maharashtra,Standard
+CUST-0065,Riya Singh,Mumbai,Maharashtra,VIP Customer
+CUST-0066,Sneha Nair,Delhi,Delhi,Frequent Buyer
+CUST-0067,Ishita Shah,Pune,Maharashtra,VIP Customer
+CUST-0068,Meera Shah,Ahmedabad,Gujarat,Standard
+CUST-0069,Rohan Banerjee,Hyderabad,Telangana,Standard
+CUST-0070,Priya Sharma,Mumbai,Maharashtra,Standard
+CUST-0071,Neha Kulkarni,Delhi,Delhi,Frequent Buyer
+CUST-0072,Ishita Chopra,Mumbai,Maharashtra,Standard
+CUST-0073,Kavya Shah,Hyderabad,Telangana,VIP Customer
+CUST-0074,Neha Singh,Pune,Maharashtra,Standard
+CUST-0075,Aarav Chopra,Bengaluru,Karnataka,Frequent Buyer
+CUST-0076,Aditya Chopra,Mumbai,Maharashtra,Frequent Buyer
+CUST-0077,Priya Patel,Pune,Maharashtra,Frequent Buyer
+CUST-0078,Diya Chopra,Mumbai,Maharashtra,Standard
+CUST-0079,Sneha Patel,Bengaluru,Karnataka,Frequent Buyer
+CUST-0080,Varun Shah,Bengaluru,Karnataka,VIP Customer
+CUST-0081,Aarav Mehta,Pune,Maharashtra,Standard
+CUST-0082,Aarav Patel,Bengaluru,Karnataka,Standard
+CUST-0083,Pooja Reddy,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0084,Neha Shah,Pune,Maharashtra,Standard
+CUST-0085,Ananya Reddy,Hyderabad,Telangana,Standard
+CUST-0086,Varun Nair,Thane,Maharashtra,Frequent Buyer
+CUST-0087,Ishita Kulkarni,Hyderabad,Telangana,Standard
+CUST-0088,Rohan Verma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0089,Vikram Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-0090,Aarav Nair,Delhi,Delhi,Frequent Buyer
+CUST-0091,Amit Chopra,Pune,Maharashtra,Standard
+CUST-0092,Nikhil Rao,Chennai,Tamil Nadu,Standard
+CUST-0093,Varun Mehta,Hyderabad,Telangana,Standard
+CUST-0094,Karan Chopra,Hyderabad,Telangana,Standard
+CUST-0095,Diya Chopra,Kolkata,West Bengal,Frequent Buyer
+CUST-0096,Sneha Banerjee,Delhi,Delhi,Standard
+CUST-0097,Neha Mehta,Pune,Maharashtra,Standard
+CUST-0098,Pooja Shah,Thane,Maharashtra,Standard
+CUST-0099,Nikhil Chopra,Kolkata,West Bengal,Frequent Buyer
+CUST-0100,Aditya Gupta,Jaipur,Rajasthan,VIP Customer
+CUST-0101,Siddharth Chopra,Chennai,Tamil Nadu,Standard
+CUST-0102,Aarav Reddy,Jaipur,Rajasthan,Standard
+CUST-0103,Ishita Rao,Hyderabad,Telangana,Frequent Buyer
+CUST-0104,Aarav Banerjee,Bengaluru,Karnataka,Frequent Buyer
+CUST-0105,Rohan Chopra,Bengaluru,Karnataka,Standard
+CUST-0106,Aditya Deshmukh,Pune,Maharashtra,Standard
+CUST-0107,Amit Sharma,Bengaluru,Karnataka,Standard
+CUST-0108,Aditya Chopra,Delhi,Delhi,Standard
+CUST-0109,Ishita Joshi,Jaipur,Rajasthan,Standard
+CUST-0110,Aditya Kulkarni,Mumbai,Maharashtra,Standard
+CUST-0111,Aditya Mehta,Hyderabad,Telangana,Standard
+CUST-0112,Nikhil Gupta,Jaipur,Rajasthan,Standard
+CUST-0113,Aditya Banerjee,Kolkata,West Bengal,Standard
+CUST-0114,Ishita Kulkarni,Kolkata,West Bengal,VIP Customer
+CUST-0115,Diya Verma,Delhi,Delhi,Standard
+CUST-0116,Aarav Banerjee,Mumbai,Maharashtra,Standard
+CUST-0117,Diya Patel,Bengaluru,Karnataka,Frequent Buyer
+CUST-0118,Pooja Singh,Kolkata,West Bengal,Standard
+CUST-0119,Nikhil Verma,Thane,Maharashtra,Frequent Buyer
+CUST-0120,Neha Banerjee,Mumbai,Maharashtra,Frequent Buyer
+CUST-0121,Ananya Patel,Jaipur,Rajasthan,Standard
+CUST-0122,Meera Banerjee,Delhi,Delhi,VIP Customer
+CUST-0123,Priya Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-0124,Priya Gupta,Ahmedabad,Gujarat,Standard
+CUST-0125,Rohan Sharma,Kolkata,West Bengal,Frequent Buyer
+CUST-0126,Meera Sharma,Delhi,Delhi,Frequent Buyer
+CUST-0127,Aditya Chopra,Kolkata,West Bengal,Standard
+CUST-0128,Rohan Rao,Chennai,Tamil Nadu,Standard
+CUST-0129,Riya Rao,Mumbai,Maharashtra,Standard
+CUST-0130,Varun Mehta,Pune,Maharashtra,Standard
+CUST-0131,Nikhil Chopra,Ahmedabad,Gujarat,Standard
+CUST-0132,Nikhil Gupta,Delhi,Delhi,Frequent Buyer
+CUST-0133,Aditya Patel,Bengaluru,Karnataka,Frequent Buyer
+CUST-0134,Priya Joshi,Delhi,Delhi,Frequent Buyer
+CUST-0135,Vikram Banerjee,Ahmedabad,Gujarat,VIP Customer
+CUST-0136,Vikram Shah,Jaipur,Rajasthan,Standard
+CUST-0137,Rohan Kulkarni,Bengaluru,Karnataka,Standard
+CUST-0138,Amit Chopra,Thane,Maharashtra,Frequent Buyer
+CUST-0139,Diya Sharma,Jaipur,Rajasthan,Standard
+CUST-0140,Kavya Banerjee,Chennai,Tamil Nadu,Standard
+CUST-0141,Meera Singh,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0142,Aditya Deshmukh,Bengaluru,Karnataka,VIP Customer
+CUST-0143,Riya Sharma,Mumbai,Maharashtra,VIP Customer
+CUST-0144,Rahul Mehta,Ahmedabad,Gujarat,Standard
+CUST-0145,Diya Deshmukh,Pune,Maharashtra,Frequent Buyer
+CUST-0146,Nikhil Kulkarni,Jaipur,Rajasthan,Standard
+CUST-0147,Riya Chopra,Thane,Maharashtra,Frequent Buyer
+CUST-0148,Vikram Sharma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0149,Varun Rao,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0150,Sneha Gupta,Hyderabad,Telangana,Standard
+CUST-0151,Ishita Deshmukh,Bengaluru,Karnataka,VIP Customer
+CUST-0152,Priya Patel,Bengaluru,Karnataka,Frequent Buyer
+CUST-0153,Meera Reddy,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0154,Rohan Kulkarni,Mumbai,Maharashtra,Standard
+CUST-0155,Ishita Nair,Jaipur,Rajasthan,Standard
+CUST-0156,Neha Gupta,Kolkata,West Bengal,Standard
+CUST-0157,Neha Gupta,Jaipur,Rajasthan,Standard
+CUST-0158,Siddharth Mehta,Bengaluru,Karnataka,VIP Customer
+CUST-0159,Varun Rao,Hyderabad,Telangana,Standard
+CUST-0160,Rahul Chopra,Delhi,Delhi,Standard
+CUST-0161,Sneha Verma,Pune,Maharashtra,Standard
+CUST-0162,Amit Rao,Bengaluru,Karnataka,Standard
+CUST-0163,Meera Singh,Kolkata,West Bengal,Standard
+CUST-0164,Aarav Deshmukh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0165,Karan Joshi,Mumbai,Maharashtra,Frequent Buyer
+CUST-0166,Varun Banerjee,Ahmedabad,Gujarat,Standard
+CUST-0167,Rohan Reddy,Ahmedabad,Gujarat,Standard
+CUST-0168,Sneha Chopra,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0169,Sneha Patel,Bengaluru,Karnataka,Standard
+CUST-0170,Aditya Gupta,Bengaluru,Karnataka,Frequent Buyer
+CUST-0171,Kavya Rao,Mumbai,Maharashtra,Standard
+CUST-0172,Rahul Banerjee,Pune,Maharashtra,Standard
+CUST-0173,Varun Nair,Mumbai,Maharashtra,Frequent Buyer
+CUST-0174,Vikram Gupta,Kolkata,West Bengal,Standard
+CUST-0175,Rohan Singh,Hyderabad,Telangana,Standard
+CUST-0176,Diya Joshi,Mumbai,Maharashtra,Standard
+CUST-0177,Varun Reddy,Ahmedabad,Gujarat,Standard
+CUST-0178,Kavya Verma,Bengaluru,Karnataka,Frequent Buyer
+CUST-0179,Sneha Chopra,Chennai,Tamil Nadu,VIP Customer
+CUST-0180,Ananya Verma,Thane,Maharashtra,Standard
+CUST-0181,Ananya Mehta,Pune,Maharashtra,Standard
+CUST-0182,Amit Chopra,Mumbai,Maharashtra,Standard
+CUST-0183,Nikhil Sharma,Jaipur,Rajasthan,VIP Customer
+CUST-0184,Pooja Nair,Delhi,Delhi,Frequent Buyer
+CUST-0185,Riya Nair,Mumbai,Maharashtra,Standard
+CUST-0186,Ananya Banerjee,Hyderabad,Telangana,Standard
+CUST-0187,Amit Rao,Pune,Maharashtra,Standard
+CUST-0188,Ishita Nair,Hyderabad,Telangana,Standard
+CUST-0189,Rohan Patel,Delhi,Delhi,Standard
+CUST-0190,Nikhil Patel,Thane,Maharashtra,Frequent Buyer
+CUST-0191,Pooja Banerjee,Thane,Maharashtra,Standard
+CUST-0192,Aarav Joshi,Hyderabad,Telangana,Standard
+CUST-0193,Kavya Verma,Jaipur,Rajasthan,Standard
+CUST-0194,Rahul Singh,Jaipur,Rajasthan,Standard
+CUST-0195,Amit Rao,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0196,Karan Reddy,Kolkata,West Bengal,Standard
+CUST-0197,Priya Sharma,Mumbai,Maharashtra,Standard
+CUST-0198,Riya Reddy,Pune,Maharashtra,Standard
+CUST-0199,Kavya Gupta,Kolkata,West Bengal,Frequent Buyer
+CUST-0200,Ananya Banerjee,Kolkata,West Bengal,Standard
+CUST-0201,Nikhil Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-0202,Kavya Singh,Chennai,Tamil Nadu,Standard
+CUST-0203,Sneha Patel,Thane,Maharashtra,Standard
+CUST-0204,Aditya Chopra,Ahmedabad,Gujarat,Standard
+CUST-0205,Varun Kulkarni,Ahmedabad,Gujarat,Standard
+CUST-0206,Varun Banerjee,Ahmedabad,Gujarat,Standard
+CUST-0207,Pooja Patel,Delhi,Delhi,Frequent Buyer
+CUST-0208,Amit Mehta,Thane,Maharashtra,Standard
+CUST-0209,Amit Nair,Thane,Maharashtra,Standard
+CUST-0210,Pooja Rao,Pune,Maharashtra,Standard
+CUST-0211,Ananya Singh,Delhi,Delhi,Standard
+CUST-0212,Aditya Rao,Hyderabad,Telangana,Standard
+CUST-0213,Sneha Deshmukh,Hyderabad,Telangana,Standard
+CUST-0214,Karan Shah,Delhi,Delhi,Standard
+CUST-0215,Siddharth Kulkarni,Kolkata,West Bengal,Standard
+CUST-0216,Aditya Mehta,Kolkata,West Bengal,VIP Customer
+CUST-0217,Ananya Mehta,Hyderabad,Telangana,VIP Customer
+CUST-0218,Amit Deshmukh,Delhi,Delhi,VIP Customer
+CUST-0219,Sneha Patel,Kolkata,West Bengal,Frequent Buyer
+CUST-0220,Amit Singh,Thane,Maharashtra,Standard
+CUST-0221,Rahul Chopra,Pune,Maharashtra,Standard
+CUST-0222,Priya Patel,Jaipur,Rajasthan,Standard
+CUST-0223,Varun Chopra,Delhi,Delhi,Standard
+CUST-0224,Kavya Deshmukh,Jaipur,Rajasthan,Standard
+CUST-0225,Rahul Singh,Delhi,Delhi,Standard
+CUST-0226,Meera Nair,Hyderabad,Telangana,Standard
+CUST-0227,Pooja Chopra,Chennai,Tamil Nadu,Standard
+CUST-0228,Ananya Mehta,Kolkata,West Bengal,Standard
+CUST-0229,Siddharth Sharma,Bengaluru,Karnataka,Standard
+CUST-0230,Sneha Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-0231,Aditya Shah,Mumbai,Maharashtra,Frequent Buyer
+CUST-0232,Kavya Joshi,Thane,Maharashtra,Frequent Buyer
+CUST-0233,Ananya Chopra,Ahmedabad,Gujarat,Standard
+CUST-0234,Neha Deshmukh,Mumbai,Maharashtra,Standard
+CUST-0235,Karan Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-0236,Aditya Joshi,Pune,Maharashtra,Standard
+CUST-0237,Priya Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-0238,Meera Nair,Ahmedabad,Gujarat,Standard
+CUST-0239,Kavya Patel,Kolkata,West Bengal,Frequent Buyer
+CUST-0240,Amit Sharma,Mumbai,Maharashtra,Standard
+CUST-0241,Amit Kulkarni,Mumbai,Maharashtra,Standard
+CUST-0242,Neha Nair,Bengaluru,Karnataka,Frequent Buyer
+CUST-0243,Sneha Deshmukh,Pune,Maharashtra,Standard
+CUST-0244,Neha Gupta,Pune,Maharashtra,Standard
+CUST-0245,Riya Shah,Mumbai,Maharashtra,Frequent Buyer
+CUST-0246,Sneha Rao,Delhi,Delhi,Standard
+CUST-0247,Aarav Shah,Bengaluru,Karnataka,Standard
+CUST-0248,Pooja Joshi,Thane,Maharashtra,Frequent Buyer
+CUST-0249,Sneha Banerjee,Mumbai,Maharashtra,Standard
+CUST-0250,Rahul Nair,Delhi,Delhi,Frequent Buyer
+CUST-0251,Aditya Banerjee,Kolkata,West Bengal,Standard
+CUST-0252,Nikhil Patel,Thane,Maharashtra,Standard
+CUST-0253,Karan Singh,Jaipur,Rajasthan,Standard
+CUST-0254,Neha Deshmukh,Jaipur,Rajasthan,Standard
+CUST-0255,Amit Gupta,Chennai,Tamil Nadu,VIP Customer
+CUST-0256,Rahul Nair,Jaipur,Rajasthan,Standard
+CUST-0257,Aarav Reddy,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0258,Ishita Mehta,Delhi,Delhi,Frequent Buyer
+CUST-0259,Neha Reddy,Bengaluru,Karnataka,Standard
+CUST-0260,Siddharth Deshmukh,Jaipur,Rajasthan,Standard
+CUST-0261,Siddharth Deshmukh,Kolkata,West Bengal,VIP Customer
+CUST-0262,Kavya Joshi,Mumbai,Maharashtra,VIP Customer
+CUST-0263,Aarav Reddy,Delhi,Delhi,Standard
+CUST-0264,Neha Reddy,Pune,Maharashtra,Standard
+CUST-0265,Siddharth Gupta,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0266,Siddharth Patel,Bengaluru,Karnataka,Standard
+CUST-0267,Karan Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-0268,Ananya Singh,Thane,Maharashtra,Standard
+CUST-0269,Vikram Mehta,Pune,Maharashtra,Standard
+CUST-0270,Aarav Sharma,Kolkata,West Bengal,Frequent Buyer
+CUST-0271,Meera Joshi,Hyderabad,Telangana,Standard
+CUST-0272,Riya Rao,Mumbai,Maharashtra,Standard
+CUST-0273,Neha Sharma,Hyderabad,Telangana,Standard
+CUST-0274,Nikhil Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0275,Rahul Banerjee,Mumbai,Maharashtra,Standard
+CUST-0276,Nikhil Verma,Kolkata,West Bengal,Standard
+CUST-0277,Amit Verma,Pune,Maharashtra,Standard
+CUST-0278,Meera Shah,Mumbai,Maharashtra,Standard
+CUST-0279,Aarav Nair,Delhi,Delhi,Frequent Buyer
+CUST-0280,Rohan Gupta,Chennai,Tamil Nadu,Standard
+CUST-0281,Aarav Kulkarni,Thane,Maharashtra,VIP Customer
+CUST-0282,Vikram Banerjee,Thane,Maharashtra,Standard
+CUST-0283,Rohan Nair,Ahmedabad,Gujarat,Standard
+CUST-0284,Amit Joshi,Kolkata,West Bengal,Standard
+CUST-0285,Amit Nair,Mumbai,Maharashtra,Standard
+CUST-0286,Kavya Nair,Kolkata,West Bengal,Frequent Buyer
+CUST-0287,Riya Joshi,Delhi,Delhi,Standard
+CUST-0288,Ishita Verma,Chennai,Tamil Nadu,Standard
+CUST-0289,Aarav Kulkarni,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0290,Priya Banerjee,Pune,Maharashtra,Standard
+CUST-0291,Aarav Reddy,Thane,Maharashtra,Frequent Buyer
+CUST-0292,Ananya Patel,Jaipur,Rajasthan,Standard
+CUST-0293,Aditya Joshi,Delhi,Delhi,Standard
+CUST-0294,Ananya Joshi,Ahmedabad,Gujarat,Standard
+CUST-0295,Diya Nair,Delhi,Delhi,Standard
+CUST-0296,Kavya Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-0297,Meera Patel,Mumbai,Maharashtra,Standard
+CUST-0298,Neha Verma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0299,Siddharth Deshmukh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0300,Rahul Verma,Delhi,Delhi,Standard
+CUST-0301,Meera Joshi,Hyderabad,Telangana,Frequent Buyer
+CUST-0302,Sneha Verma,Ahmedabad,Gujarat,Standard
+CUST-0303,Sneha Gupta,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0304,Pooja Deshmukh,Bengaluru,Karnataka,Standard
+CUST-0305,Sneha Singh,Ahmedabad,Gujarat,Standard
+CUST-0306,Vikram Gupta,Ahmedabad,Gujarat,VIP Customer
+CUST-0307,Kavya Verma,Jaipur,Rajasthan,Standard
+CUST-0308,Nikhil Joshi,Mumbai,Maharashtra,Frequent Buyer
+CUST-0309,Karan Nair,Jaipur,Rajasthan,Standard
+CUST-0310,Varun Singh,Delhi,Delhi,Standard
+CUST-0311,Ananya Kulkarni,Pune,Maharashtra,Frequent Buyer
+CUST-0312,Aditya Nair,Hyderabad,Telangana,Standard
+CUST-0313,Amit Mehta,Delhi,Delhi,Standard
+CUST-0314,Karan Sharma,Delhi,Delhi,Standard
+CUST-0315,Siddharth Gupta,Thane,Maharashtra,Standard
+CUST-0316,Siddharth Nair,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0317,Karan Nair,Ahmedabad,Gujarat,Standard
+CUST-0318,Rohan Patel,Chennai,Tamil Nadu,Standard
+CUST-0319,Sneha Verma,Pune,Maharashtra,Standard
+CUST-0320,Diya Singh,Bengaluru,Karnataka,VIP Customer
+CUST-0321,Pooja Rao,Mumbai,Maharashtra,Standard
+CUST-0322,Nikhil Nair,Kolkata,West Bengal,Frequent Buyer
+CUST-0323,Aditya Deshmukh,Mumbai,Maharashtra,Frequent Buyer
+CUST-0324,Meera Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-0325,Siddharth Banerjee,Jaipur,Rajasthan,Frequent Buyer
+CUST-0326,Ishita Kulkarni,Jaipur,Rajasthan,VIP Customer
+CUST-0327,Vikram Shah,Jaipur,Rajasthan,Standard
+CUST-0328,Siddharth Patel,Chennai,Tamil Nadu,VIP Customer
+CUST-0329,Meera Reddy,Thane,Maharashtra,Frequent Buyer
+CUST-0330,Rohan Verma,Chennai,Tamil Nadu,Standard
+CUST-0331,Varun Shah,Chennai,Tamil Nadu,Standard
+CUST-0332,Diya Chopra,Pune,Maharashtra,Standard
+CUST-0333,Aditya Singh,Pune,Maharashtra,Standard
+CUST-0334,Diya Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-0335,Priya Banerjee,Mumbai,Maharashtra,Frequent Buyer
+CUST-0336,Aarav Banerjee,Thane,Maharashtra,Frequent Buyer
+CUST-0337,Rohan Gupta,Thane,Maharashtra,VIP Customer
+CUST-0338,Rahul Banerjee,Chennai,Tamil Nadu,Standard
+CUST-0339,Vikram Shah,Pune,Maharashtra,Standard
+CUST-0340,Diya Rao,Mumbai,Maharashtra,Standard
+CUST-0341,Pooja Shah,Ahmedabad,Gujarat,Standard
+CUST-0342,Riya Joshi,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0343,Rohan Banerjee,Mumbai,Maharashtra,Standard
+CUST-0344,Priya Verma,Thane,Maharashtra,Standard
+CUST-0345,Ishita Sharma,Ahmedabad,Gujarat,VIP Customer
+CUST-0346,Amit Sharma,Ahmedabad,Gujarat,Standard
+CUST-0347,Diya Singh,Delhi,Delhi,VIP Customer
+CUST-0348,Karan Chopra,Bengaluru,Karnataka,Standard
+CUST-0349,Kavya Nair,Kolkata,West Bengal,Standard
+CUST-0350,Vikram Mehta,Thane,Maharashtra,Standard
+CUST-0351,Riya Banerjee,Kolkata,West Bengal,Frequent Buyer
+CUST-0352,Nikhil Banerjee,Bengaluru,Karnataka,Standard
+CUST-0353,Siddharth Sharma,Thane,Maharashtra,VIP Customer
+CUST-0354,Sneha Joshi,Kolkata,West Bengal,Standard
+CUST-0355,Varun Rao,Chennai,Tamil Nadu,VIP Customer
+CUST-0356,Varun Banerjee,Jaipur,Rajasthan,Standard
+CUST-0357,Meera Verma,Pune,Maharashtra,Frequent Buyer
+CUST-0358,Rohan Patel,Kolkata,West Bengal,Standard
+CUST-0359,Amit Rao,Kolkata,West Bengal,Standard
+CUST-0360,Ananya Singh,Bengaluru,Karnataka,Frequent Buyer
+CUST-0361,Siddharth Patel,Pune,Maharashtra,VIP Customer
+CUST-0362,Siddharth Reddy,Jaipur,Rajasthan,Frequent Buyer
+CUST-0363,Karan Singh,Bengaluru,Karnataka,Standard
+CUST-0364,Neha Singh,Hyderabad,Telangana,Frequent Buyer
+CUST-0365,Meera Deshmukh,Jaipur,Rajasthan,VIP Customer
+CUST-0366,Rahul Sharma,Bengaluru,Karnataka,Standard
+CUST-0367,Rohan Nair,Pune,Maharashtra,Frequent Buyer
+CUST-0368,Rahul Banerjee,Kolkata,West Bengal,Frequent Buyer
+CUST-0369,Nikhil Nair,Kolkata,West Bengal,Standard
+CUST-0370,Rahul Singh,Ahmedabad,Gujarat,Standard
+CUST-0371,Pooja Mehta,Bengaluru,Karnataka,Frequent Buyer
+CUST-0372,Vikram Joshi,Hyderabad,Telangana,Frequent Buyer
+CUST-0373,Nikhil Reddy,Jaipur,Rajasthan,Frequent Buyer
+CUST-0374,Karan Joshi,Jaipur,Rajasthan,Frequent Buyer
+CUST-0375,Priya Verma,Thane,Maharashtra,Frequent Buyer
+CUST-0376,Ananya Banerjee,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0377,Siddharth Sharma,Mumbai,Maharashtra,Standard
+CUST-0378,Rahul Patel,Thane,Maharashtra,Standard
+CUST-0379,Vikram Gupta,Pune,Maharashtra,Standard
+CUST-0380,Amit Shah,Thane,Maharashtra,Frequent Buyer
+CUST-0381,Priya Mehta,Hyderabad,Telangana,Frequent Buyer
+CUST-0382,Priya Singh,Thane,Maharashtra,Standard
+CUST-0383,Varun Gupta,Hyderabad,Telangana,Standard
+CUST-0384,Meera Verma,Hyderabad,Telangana,VIP Customer
+CUST-0385,Rohan Mehta,Delhi,Delhi,Frequent Buyer
+CUST-0386,Karan Sharma,Chennai,Tamil Nadu,Standard
+CUST-0387,Karan Gupta,Pune,Maharashtra,Standard
+CUST-0388,Kavya Verma,Thane,Maharashtra,VIP Customer
+CUST-0389,Rohan Banerjee,Mumbai,Maharashtra,Frequent Buyer
+CUST-0390,Karan Mehta,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0391,Karan Singh,Delhi,Delhi,Frequent Buyer
+CUST-0392,Amit Joshi,Kolkata,West Bengal,Frequent Buyer
+CUST-0393,Nikhil Rao,Hyderabad,Telangana,Standard
+CUST-0394,Sneha Reddy,Mumbai,Maharashtra,Frequent Buyer
+CUST-0395,Varun Rao,Pune,Maharashtra,Frequent Buyer
+CUST-0396,Amit Chopra,Thane,Maharashtra,Standard
+CUST-0397,Kavya Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-0398,Neha Reddy,Bengaluru,Karnataka,Standard
+CUST-0399,Riya Kulkarni,Thane,Maharashtra,Frequent Buyer
+CUST-0400,Rohan Mehta,Bengaluru,Karnataka,Frequent Buyer
+CUST-0401,Kavya Kulkarni,Ahmedabad,Gujarat,Standard
+CUST-0402,Priya Rao,Delhi,Delhi,Standard
+CUST-0403,Ananya Nair,Ahmedabad,Gujarat,Standard
+CUST-0404,Neha Joshi,Mumbai,Maharashtra,Standard
+CUST-0405,Kavya Reddy,Thane,Maharashtra,Frequent Buyer
+CUST-0406,Aarav Chopra,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0407,Karan Deshmukh,Kolkata,West Bengal,Frequent Buyer
+CUST-0408,Varun Chopra,Ahmedabad,Gujarat,VIP Customer
+CUST-0409,Riya Sharma,Hyderabad,Telangana,Standard
+CUST-0410,Aarav Verma,Thane,Maharashtra,Standard
+CUST-0411,Rahul Shah,Ahmedabad,Gujarat,Standard
+CUST-0412,Vikram Verma,Delhi,Delhi,VIP Customer
+CUST-0413,Kavya Gupta,Jaipur,Rajasthan,Frequent Buyer
+CUST-0414,Pooja Kulkarni,Thane,Maharashtra,Frequent Buyer
+CUST-0415,Karan Banerjee,Kolkata,West Bengal,Frequent Buyer
+CUST-0416,Siddharth Deshmukh,Hyderabad,Telangana,Frequent Buyer
+CUST-0417,Meera Chopra,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0418,Riya Shah,Thane,Maharashtra,Frequent Buyer
+CUST-0419,Karan Mehta,Chennai,Tamil Nadu,Standard
+CUST-0420,Rohan Reddy,Hyderabad,Telangana,Standard
+CUST-0421,Kavya Singh,Jaipur,Rajasthan,Frequent Buyer
+CUST-0422,Diya Banerjee,Chennai,Tamil Nadu,Standard
+CUST-0423,Nikhil Kulkarni,Pune,Maharashtra,Standard
+CUST-0424,Nikhil Chopra,Kolkata,West Bengal,Standard
+CUST-0425,Nikhil Deshmukh,Thane,Maharashtra,Standard
+CUST-0426,Siddharth Singh,Kolkata,West Bengal,Frequent Buyer
+CUST-0427,Nikhil Patel,Jaipur,Rajasthan,Standard
+CUST-0428,Amit Sharma,Hyderabad,Telangana,Frequent Buyer
+CUST-0429,Riya Joshi,Mumbai,Maharashtra,Standard
+CUST-0430,Meera Sharma,Delhi,Delhi,Standard
+CUST-0431,Priya Gupta,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0432,Ananya Reddy,Delhi,Delhi,VIP Customer
+CUST-0433,Vikram Gupta,Hyderabad,Telangana,VIP Customer
+CUST-0434,Diya Patel,Jaipur,Rajasthan,Frequent Buyer
+CUST-0435,Amit Sharma,Kolkata,West Bengal,Standard
+CUST-0436,Priya Shah,Kolkata,West Bengal,Standard
+CUST-0437,Aditya Joshi,Thane,Maharashtra,Standard
+CUST-0438,Amit Shah,Ahmedabad,Gujarat,Standard
+CUST-0439,Riya Verma,Ahmedabad,Gujarat,Standard
+CUST-0440,Ananya Patel,Mumbai,Maharashtra,Frequent Buyer
+CUST-0441,Neha Chopra,Mumbai,Maharashtra,Standard
+CUST-0442,Amit Reddy,Chennai,Tamil Nadu,Standard
+CUST-0443,Kavya Gupta,Pune,Maharashtra,Standard
+CUST-0444,Aarav Joshi,Ahmedabad,Gujarat,Standard
+CUST-0445,Riya Chopra,Mumbai,Maharashtra,Standard
+CUST-0446,Amit Joshi,Bengaluru,Karnataka,Standard
+CUST-0447,Varun Nair,Mumbai,Maharashtra,Frequent Buyer
+CUST-0448,Diya Singh,Hyderabad,Telangana,Standard
+CUST-0449,Kavya Verma,Thane,Maharashtra,Standard
+CUST-0450,Riya Gupta,Bengaluru,Karnataka,Standard
+CUST-0451,Rohan Deshmukh,Chennai,Tamil Nadu,Standard
+CUST-0452,Aarav Sharma,Bengaluru,Karnataka,Standard
+CUST-0453,Riya Joshi,Jaipur,Rajasthan,Standard
+CUST-0454,Meera Banerjee,Thane,Maharashtra,Frequent Buyer
+CUST-0455,Amit Singh,Kolkata,West Bengal,Standard
+CUST-0456,Riya Kulkarni,Hyderabad,Telangana,Standard
+CUST-0457,Ishita Verma,Delhi,Delhi,Standard
+CUST-0458,Neha Verma,Chennai,Tamil Nadu,Standard
+CUST-0459,Neha Banerjee,Chennai,Tamil Nadu,Standard
+CUST-0460,Amit Deshmukh,Bengaluru,Karnataka,Standard
+CUST-0461,Karan Gupta,Mumbai,Maharashtra,Standard
+CUST-0462,Varun Gupta,Thane,Maharashtra,Frequent Buyer
+CUST-0463,Varun Chopra,Kolkata,West Bengal,Standard
+CUST-0464,Kavya Mehta,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0465,Ishita Shah,Pune,Maharashtra,Standard
+CUST-0466,Siddharth Gupta,Bengaluru,Karnataka,Standard
+CUST-0467,Meera Deshmukh,Thane,Maharashtra,Standard
+CUST-0468,Siddharth Rao,Mumbai,Maharashtra,Frequent Buyer
+CUST-0469,Rahul Reddy,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0470,Ananya Banerjee,Delhi,Delhi,Frequent Buyer
+CUST-0471,Sneha Patel,Delhi,Delhi,Frequent Buyer
+CUST-0472,Rahul Rao,Thane,Maharashtra,Standard
+CUST-0473,Vikram Rao,Mumbai,Maharashtra,Standard
+CUST-0474,Diya Gupta,Mumbai,Maharashtra,Standard
+CUST-0475,Nikhil Chopra,Bengaluru,Karnataka,Standard
+CUST-0476,Varun Sharma,Mumbai,Maharashtra,Standard
+CUST-0477,Karan Patel,Hyderabad,Telangana,Standard
+CUST-0478,Ananya Shah,Jaipur,Rajasthan,Standard
+CUST-0479,Neha Verma,Bengaluru,Karnataka,Standard
+CUST-0480,Diya Joshi,Bengaluru,Karnataka,Standard
+CUST-0481,Amit Chopra,Bengaluru,Karnataka,Standard
+CUST-0482,Sneha Shah,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0483,Karan Kulkarni,Bengaluru,Karnataka,Frequent Buyer
+CUST-0484,Amit Rao,Bengaluru,Karnataka,Frequent Buyer
+CUST-0485,Amit Mehta,Pune,Maharashtra,VIP Customer
+CUST-0486,Nikhil Verma,Hyderabad,Telangana,Standard
+CUST-0487,Ishita Joshi,Delhi,Delhi,Standard
+CUST-0488,Neha Gupta,Pune,Maharashtra,Frequent Buyer
+CUST-0489,Ananya Sharma,Thane,Maharashtra,VIP Customer
+CUST-0490,Karan Kulkarni,Jaipur,Rajasthan,Frequent Buyer
+CUST-0491,Vikram Banerjee,Jaipur,Rajasthan,Standard
+CUST-0492,Varun Gupta,Kolkata,West Bengal,Standard
+CUST-0493,Priya Mehta,Kolkata,West Bengal,Standard
+CUST-0494,Aarav Chopra,Chennai,Tamil Nadu,Standard
+CUST-0495,Amit Singh,Jaipur,Rajasthan,Standard
+CUST-0496,Siddharth Gupta,Hyderabad,Telangana,Standard
+CUST-0497,Pooja Nair,Jaipur,Rajasthan,Frequent Buyer
+CUST-0498,Aditya Mehta,Mumbai,Maharashtra,Standard
+CUST-0499,Priya Chopra,Pune,Maharashtra,Frequent Buyer
+CUST-0500,Meera Patel,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0501,Meera Joshi,Mumbai,Maharashtra,Standard
+CUST-0502,Diya Verma,Pune,Maharashtra,Standard
+CUST-0503,Varun Deshmukh,Bengaluru,Karnataka,Standard
+CUST-0504,Vikram Singh,Pune,Maharashtra,Standard
+CUST-0505,Ananya Patel,Ahmedabad,Gujarat,Standard
+CUST-0506,Rohan Gupta,Thane,Maharashtra,Standard
+CUST-0507,Siddharth Sharma,Chennai,Tamil Nadu,Standard
+CUST-0508,Kavya Patel,Kolkata,West Bengal,Frequent Buyer
+CUST-0509,Pooja Kulkarni,Hyderabad,Telangana,Frequent Buyer
+CUST-0510,Neha Joshi,Delhi,Delhi,Frequent Buyer
+CUST-0511,Siddharth Nair,Pune,Maharashtra,Standard
+CUST-0512,Siddharth Kulkarni,Hyderabad,Telangana,Standard
+CUST-0513,Ananya Chopra,Mumbai,Maharashtra,Frequent Buyer
+CUST-0514,Neha Deshmukh,Bengaluru,Karnataka,Standard
+CUST-0515,Diya Banerjee,Pune,Maharashtra,Standard
+CUST-0516,Sneha Verma,Hyderabad,Telangana,VIP Customer
+CUST-0517,Sneha Sharma,Thane,Maharashtra,VIP Customer
+CUST-0518,Riya Nair,Chennai,Tamil Nadu,Standard
+CUST-0519,Priya Joshi,Jaipur,Rajasthan,Standard
+CUST-0520,Ishita Gupta,Ahmedabad,Gujarat,Standard
+CUST-0521,Ishita Chopra,Ahmedabad,Gujarat,Standard
+CUST-0522,Riya Patel,Kolkata,West Bengal,VIP Customer
+CUST-0523,Nikhil Nair,Chennai,Tamil Nadu,Standard
+CUST-0524,Neha Nair,Delhi,Delhi,Standard
+CUST-0525,Riya Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-0526,Vikram Sharma,Kolkata,West Bengal,Frequent Buyer
+CUST-0527,Riya Verma,Hyderabad,Telangana,Standard
+CUST-0528,Aarav Kulkarni,Delhi,Delhi,Standard
+CUST-0529,Siddharth Joshi,Thane,Maharashtra,Standard
+CUST-0530,Siddharth Sharma,Ahmedabad,Gujarat,Standard
+CUST-0531,Priya Verma,Delhi,Delhi,Standard
+CUST-0532,Karan Reddy,Pune,Maharashtra,VIP Customer
+CUST-0533,Riya Gupta,Bengaluru,Karnataka,Standard
+CUST-0534,Pooja Deshmukh,Mumbai,Maharashtra,Frequent Buyer
+CUST-0535,Pooja Shah,Pune,Maharashtra,Frequent Buyer
+CUST-0536,Ishita Kulkarni,Pune,Maharashtra,Standard
+CUST-0537,Amit Joshi,Ahmedabad,Gujarat,Standard
+CUST-0538,Rohan Verma,Thane,Maharashtra,VIP Customer
+CUST-0539,Pooja Rao,Thane,Maharashtra,Standard
+CUST-0540,Aarav Mehta,Hyderabad,Telangana,Frequent Buyer
+CUST-0541,Kavya Deshmukh,Mumbai,Maharashtra,Frequent Buyer
+CUST-0542,Rohan Patel,Delhi,Delhi,Standard
+CUST-0543,Rahul Joshi,Ahmedabad,Gujarat,Standard
+CUST-0544,Ananya Mehta,Bengaluru,Karnataka,Standard
+CUST-0545,Rahul Chopra,Delhi,Delhi,Frequent Buyer
+CUST-0546,Meera Banerjee,Delhi,Delhi,Standard
+CUST-0547,Karan Shah,Hyderabad,Telangana,Frequent Buyer
+CUST-0548,Nikhil Reddy,Chennai,Tamil Nadu,Standard
+CUST-0549,Ananya Gupta,Pune,Maharashtra,Standard
+CUST-0550,Amit Rao,Thane,Maharashtra,Standard
+CUST-0551,Rohan Joshi,Ahmedabad,Gujarat,Standard
+CUST-0552,Vikram Chopra,Pune,Maharashtra,Frequent Buyer
+CUST-0553,Vikram Nair,Delhi,Delhi,Frequent Buyer
+CUST-0554,Riya Banerjee,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0555,Vikram Verma,Hyderabad,Telangana,Standard
+CUST-0556,Rohan Kulkarni,Delhi,Delhi,Standard
+CUST-0557,Kavya Kulkarni,Hyderabad,Telangana,Frequent Buyer
+CUST-0558,Aditya Shah,Hyderabad,Telangana,Standard
+CUST-0559,Sneha Reddy,Bengaluru,Karnataka,Standard
+CUST-0560,Vikram Joshi,Chennai,Tamil Nadu,Standard
+CUST-0561,Meera Banerjee,Bengaluru,Karnataka,VIP Customer
+CUST-0562,Aditya Banerjee,Thane,Maharashtra,Standard
+CUST-0563,Rohan Sharma,Mumbai,Maharashtra,Standard
+CUST-0564,Riya Kulkarni,Bengaluru,Karnataka,Standard
+CUST-0565,Ananya Mehta,Delhi,Delhi,Standard
+CUST-0566,Neha Patel,Thane,Maharashtra,Standard
+CUST-0567,Sneha Gupta,Delhi,Delhi,Frequent Buyer
+CUST-0568,Siddharth Sharma,Mumbai,Maharashtra,Frequent Buyer
+CUST-0569,Aarav Verma,Ahmedabad,Gujarat,Standard
+CUST-0570,Pooja Verma,Mumbai,Maharashtra,Standard
+CUST-0571,Karan Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-0572,Neha Sharma,Hyderabad,Telangana,Frequent Buyer
+CUST-0573,Rahul Patel,Chennai,Tamil Nadu,Standard
+CUST-0574,Aditya Nair,Mumbai,Maharashtra,Standard
+CUST-0575,Karan Sharma,Ahmedabad,Gujarat,Standard
+CUST-0576,Rohan Nair,Kolkata,West Bengal,Standard
+CUST-0577,Neha Gupta,Delhi,Delhi,Standard
+CUST-0578,Karan Mehta,Delhi,Delhi,Frequent Buyer
+CUST-0579,Nikhil Chopra,Chennai,Tamil Nadu,Standard
+CUST-0580,Aditya Joshi,Jaipur,Rajasthan,Frequent Buyer
+CUST-0581,Pooja Deshmukh,Kolkata,West Bengal,Standard
+CUST-0582,Neha Nair,Mumbai,Maharashtra,Frequent Buyer
+CUST-0583,Amit Verma,Thane,Maharashtra,Standard
+CUST-0584,Priya Shah,Delhi,Delhi,Standard
+CUST-0585,Meera Gupta,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0586,Ananya Deshmukh,Kolkata,West Bengal,Standard
+CUST-0587,Karan Gupta,Thane,Maharashtra,Standard
+CUST-0588,Meera Kulkarni,Kolkata,West Bengal,Standard
+CUST-0589,Kavya Chopra,Kolkata,West Bengal,Standard
+CUST-0590,Riya Shah,Thane,Maharashtra,VIP Customer
+CUST-0591,Kavya Sharma,Pune,Maharashtra,Frequent Buyer
+CUST-0592,Vikram Sharma,Pune,Maharashtra,Standard
+CUST-0593,Rahul Shah,Thane,Maharashtra,Standard
+CUST-0594,Kavya Nair,Kolkata,West Bengal,Standard
+CUST-0595,Diya Singh,Chennai,Tamil Nadu,Standard
+CUST-0596,Karan Rao,Hyderabad,Telangana,VIP Customer
+CUST-0597,Ananya Banerjee,Thane,Maharashtra,Frequent Buyer
+CUST-0598,Meera Reddy,Delhi,Delhi,Standard
+CUST-0599,Diya Banerjee,Chennai,Tamil Nadu,Standard
+CUST-0600,Aarav Nair,Bengaluru,Karnataka,Frequent Buyer
+CUST-0601,Nikhil Kulkarni,Hyderabad,Telangana,Frequent Buyer
+CUST-0602,Diya Reddy,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0603,Amit Nair,Bengaluru,Karnataka,Standard
+CUST-0604,Aarav Chopra,Kolkata,West Bengal,Frequent Buyer
+CUST-0605,Priya Nair,Mumbai,Maharashtra,Standard
+CUST-0606,Ananya Singh,Jaipur,Rajasthan,Standard
+CUST-0607,Kavya Kulkarni,Bengaluru,Karnataka,Frequent Buyer
+CUST-0608,Siddharth Banerjee,Thane,Maharashtra,Standard
+CUST-0609,Pooja Gupta,Delhi,Delhi,Frequent Buyer
+CUST-0610,Kavya Shah,Mumbai,Maharashtra,Frequent Buyer
+CUST-0611,Riya Singh,Bengaluru,Karnataka,Frequent Buyer
+CUST-0612,Sneha Nair,Chennai,Tamil Nadu,Standard
+CUST-0613,Priya Reddy,Jaipur,Rajasthan,Standard
+CUST-0614,Pooja Nair,Delhi,Delhi,Standard
+CUST-0615,Aditya Deshmukh,Jaipur,Rajasthan,Standard
+CUST-0616,Vikram Joshi,Kolkata,West Bengal,Standard
+CUST-0617,Rahul Mehta,Delhi,Delhi,Standard
+CUST-0618,Priya Banerjee,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0619,Aditya Gupta,Kolkata,West Bengal,Standard
+CUST-0620,Ananya Shah,Delhi,Delhi,Frequent Buyer
+CUST-0621,Varun Reddy,Pune,Maharashtra,Standard
+CUST-0622,Rahul Chopra,Hyderabad,Telangana,Frequent Buyer
+CUST-0623,Priya Patel,Hyderabad,Telangana,Standard
+CUST-0624,Varun Kulkarni,Delhi,Delhi,Standard
+CUST-0625,Varun Singh,Delhi,Delhi,Frequent Buyer
+CUST-0626,Rahul Sharma,Ahmedabad,Gujarat,Standard
+CUST-0627,Riya Reddy,Delhi,Delhi,Standard
+CUST-0628,Amit Shah,Hyderabad,Telangana,Frequent Buyer
+CUST-0629,Siddharth Gupta,Chennai,Tamil Nadu,Standard
+CUST-0630,Riya Banerjee,Ahmedabad,Gujarat,VIP Customer
+CUST-0631,Rahul Singh,Pune,Maharashtra,Standard
+CUST-0632,Rahul Deshmukh,Hyderabad,Telangana,Standard
+CUST-0633,Nikhil Gupta,Pune,Maharashtra,Frequent Buyer
+CUST-0634,Nikhil Joshi,Jaipur,Rajasthan,Frequent Buyer
+CUST-0635,Riya Sharma,Bengaluru,Karnataka,Standard
+CUST-0636,Priya Deshmukh,Bengaluru,Karnataka,Frequent Buyer
+CUST-0637,Vikram Verma,Chennai,Tamil Nadu,VIP Customer
+CUST-0638,Priya Deshmukh,Kolkata,West Bengal,Standard
+CUST-0639,Riya Nair,Ahmedabad,Gujarat,Standard
+CUST-0640,Diya Gupta,Bengaluru,Karnataka,Standard
+CUST-0641,Rohan Kulkarni,Chennai,Tamil Nadu,VIP Customer
+CUST-0642,Pooja Deshmukh,Kolkata,West Bengal,Standard
+CUST-0643,Rahul Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-0644,Karan Mehta,Delhi,Delhi,Frequent Buyer
+CUST-0645,Priya Verma,Ahmedabad,Gujarat,Standard
+CUST-0646,Sneha Reddy,Chennai,Tamil Nadu,Standard
+CUST-0647,Karan Mehta,Kolkata,West Bengal,Standard
+CUST-0648,Pooja Gupta,Chennai,Tamil Nadu,Standard
+CUST-0649,Aditya Gupta,Ahmedabad,Gujarat,VIP Customer
+CUST-0650,Rohan Kulkarni,Bengaluru,Karnataka,Standard
+CUST-0651,Varun Patel,Kolkata,West Bengal,Standard
+CUST-0652,Diya Rao,Bengaluru,Karnataka,Standard
+CUST-0653,Meera Joshi,Mumbai,Maharashtra,Standard
+CUST-0654,Vikram Deshmukh,Jaipur,Rajasthan,Standard
+CUST-0655,Ananya Chopra,Mumbai,Maharashtra,Frequent Buyer
+CUST-0656,Vikram Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-0657,Sneha Shah,Thane,Maharashtra,Standard
+CUST-0658,Pooja Joshi,Mumbai,Maharashtra,Standard
+CUST-0659,Ishita Rao,Hyderabad,Telangana,Frequent Buyer
+CUST-0660,Ishita Patel,Thane,Maharashtra,Frequent Buyer
+CUST-0661,Diya Nair,Hyderabad,Telangana,Frequent Buyer
+CUST-0662,Pooja Patel,Hyderabad,Telangana,Standard
+CUST-0663,Vikram Joshi,Mumbai,Maharashtra,Standard
+CUST-0664,Kavya Mehta,Delhi,Delhi,Standard
+CUST-0665,Neha Joshi,Kolkata,West Bengal,Frequent Buyer
+CUST-0666,Kavya Singh,Delhi,Delhi,VIP Customer
+CUST-0667,Varun Reddy,Kolkata,West Bengal,Standard
+CUST-0668,Rohan Nair,Kolkata,West Bengal,Standard
+CUST-0669,Riya Patel,Jaipur,Rajasthan,Standard
+CUST-0670,Meera Singh,Delhi,Delhi,Frequent Buyer
+CUST-0671,Karan Nair,Pune,Maharashtra,Standard
+CUST-0672,Siddharth Mehta,Kolkata,West Bengal,Standard
+CUST-0673,Siddharth Reddy,Kolkata,West Bengal,Standard
+CUST-0674,Meera Gupta,Kolkata,West Bengal,Standard
+CUST-0675,Diya Verma,Hyderabad,Telangana,Standard
+CUST-0676,Rahul Patel,Pune,Maharashtra,Frequent Buyer
+CUST-0677,Sneha Sharma,Kolkata,West Bengal,Standard
+CUST-0678,Neha Joshi,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0679,Priya Shah,Bengaluru,Karnataka,Frequent Buyer
+CUST-0680,Nikhil Rao,Hyderabad,Telangana,Frequent Buyer
+CUST-0681,Ishita Sharma,Chennai,Tamil Nadu,Standard
+CUST-0682,Rahul Verma,Chennai,Tamil Nadu,Standard
+CUST-0683,Aditya Rao,Hyderabad,Telangana,Standard
+CUST-0684,Riya Verma,Delhi,Delhi,Standard
+CUST-0685,Rohan Banerjee,Bengaluru,Karnataka,Standard
+CUST-0686,Riya Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-0687,Diya Rao,Pune,Maharashtra,Standard
+CUST-0688,Ananya Deshmukh,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0689,Ishita Joshi,Jaipur,Rajasthan,Standard
+CUST-0690,Aarav Joshi,Jaipur,Rajasthan,Standard
+CUST-0691,Siddharth Patel,Thane,Maharashtra,Standard
+CUST-0692,Karan Rao,Jaipur,Rajasthan,Standard
+CUST-0693,Varun Joshi,Hyderabad,Telangana,Frequent Buyer
+CUST-0694,Aarav Mehta,Pune,Maharashtra,Frequent Buyer
+CUST-0695,Ananya Patel,Thane,Maharashtra,Frequent Buyer
+CUST-0696,Sneha Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0697,Neha Kulkarni,Mumbai,Maharashtra,Standard
+CUST-0698,Priya Gupta,Pune,Maharashtra,Standard
+CUST-0699,Amit Reddy,Hyderabad,Telangana,Standard
+CUST-0700,Kavya Mehta,Ahmedabad,Gujarat,VIP Customer
+CUST-0701,Vikram Rao,Mumbai,Maharashtra,Frequent Buyer
+CUST-0702,Nikhil Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-0703,Ananya Nair,Chennai,Tamil Nadu,Standard
+CUST-0704,Neha Shah,Delhi,Delhi,Standard
+CUST-0705,Varun Rao,Delhi,Delhi,Standard
+CUST-0706,Sneha Kulkarni,Jaipur,Rajasthan,Standard
+CUST-0707,Nikhil Shah,Ahmedabad,Gujarat,VIP Customer
+CUST-0708,Nikhil Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-0709,Kavya Reddy,Chennai,Tamil Nadu,Standard
+CUST-0710,Nikhil Reddy,Chennai,Tamil Nadu,Standard
+CUST-0711,Sneha Joshi,Kolkata,West Bengal,Standard
+CUST-0712,Varun Shah,Kolkata,West Bengal,Standard
+CUST-0713,Riya Rao,Mumbai,Maharashtra,Frequent Buyer
+CUST-0714,Rohan Rao,Bengaluru,Karnataka,Standard
+CUST-0715,Priya Singh,Ahmedabad,Gujarat,VIP Customer
+CUST-0716,Ananya Rao,Kolkata,West Bengal,Standard
+CUST-0717,Siddharth Nair,Hyderabad,Telangana,Standard
+CUST-0718,Ishita Banerjee,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0719,Karan Shah,Pune,Maharashtra,Frequent Buyer
+CUST-0720,Aditya Mehta,Bengaluru,Karnataka,Standard
+CUST-0721,Siddharth Banerjee,Mumbai,Maharashtra,Standard
+CUST-0722,Varun Verma,Pune,Maharashtra,Frequent Buyer
+CUST-0723,Neha Banerjee,Mumbai,Maharashtra,Frequent Buyer
+CUST-0724,Diya Deshmukh,Kolkata,West Bengal,Standard
+CUST-0725,Nikhil Gupta,Ahmedabad,Gujarat,Standard
+CUST-0726,Neha Joshi,Hyderabad,Telangana,Frequent Buyer
+CUST-0727,Nikhil Mehta,Delhi,Delhi,Frequent Buyer
+CUST-0728,Diya Banerjee,Delhi,Delhi,VIP Customer
+CUST-0729,Ananya Singh,Thane,Maharashtra,Frequent Buyer
+CUST-0730,Neha Kulkarni,Mumbai,Maharashtra,Standard
+CUST-0731,Meera Sharma,Hyderabad,Telangana,Standard
+CUST-0732,Neha Patel,Hyderabad,Telangana,Standard
+CUST-0733,Rahul Sharma,Mumbai,Maharashtra,Frequent Buyer
+CUST-0734,Ishita Banerjee,Pune,Maharashtra,Standard
+CUST-0735,Rahul Banerjee,Mumbai,Maharashtra,Standard
+CUST-0736,Neha Singh,Mumbai,Maharashtra,Frequent Buyer
+CUST-0737,Vikram Joshi,Mumbai,Maharashtra,Standard
+CUST-0738,Karan Deshmukh,Jaipur,Rajasthan,VIP Customer
+CUST-0739,Aditya Sharma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0740,Nikhil Singh,Kolkata,West Bengal,Standard
+CUST-0741,Vikram Banerjee,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0742,Karan Banerjee,Pune,Maharashtra,VIP Customer
+CUST-0743,Neha Chopra,Mumbai,Maharashtra,Frequent Buyer
+CUST-0744,Neha Banerjee,Kolkata,West Bengal,Frequent Buyer
+CUST-0745,Rahul Gupta,Mumbai,Maharashtra,VIP Customer
+CUST-0746,Aditya Nair,Jaipur,Rajasthan,Frequent Buyer
+CUST-0747,Rahul Reddy,Chennai,Tamil Nadu,Standard
+CUST-0748,Meera Verma,Delhi,Delhi,Standard
+CUST-0749,Priya Verma,Mumbai,Maharashtra,Standard
+CUST-0750,Riya Sharma,Kolkata,West Bengal,Standard
+CUST-0751,Nikhil Reddy,Jaipur,Rajasthan,Frequent Buyer
+CUST-0752,Siddharth Gupta,Thane,Maharashtra,Standard
+CUST-0753,Kavya Verma,Jaipur,Rajasthan,Standard
+CUST-0754,Vikram Chopra,Ahmedabad,Gujarat,Standard
+CUST-0755,Ananya Banerjee,Hyderabad,Telangana,Standard
+CUST-0756,Ananya Sharma,Kolkata,West Bengal,Frequent Buyer
+CUST-0757,Karan Sharma,Pune,Maharashtra,Standard
+CUST-0758,Aditya Joshi,Jaipur,Rajasthan,Frequent Buyer
+CUST-0759,Sneha Chopra,Ahmedabad,Gujarat,Standard
+CUST-0760,Priya Patel,Thane,Maharashtra,Standard
+CUST-0761,Sneha Gupta,Ahmedabad,Gujarat,Standard
+CUST-0762,Rohan Patel,Thane,Maharashtra,Frequent Buyer
+CUST-0763,Neha Singh,Ahmedabad,Gujarat,Standard
+CUST-0764,Priya Chopra,Jaipur,Rajasthan,Frequent Buyer
+CUST-0765,Ananya Nair,Chennai,Tamil Nadu,Standard
+CUST-0766,Priya Joshi,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0767,Amit Mehta,Mumbai,Maharashtra,Standard
+CUST-0768,Meera Chopra,Jaipur,Rajasthan,Standard
+CUST-0769,Varun Deshmukh,Mumbai,Maharashtra,Frequent Buyer
+CUST-0770,Ananya Mehta,Kolkata,West Bengal,Standard
+CUST-0771,Aarav Reddy,Hyderabad,Telangana,Frequent Buyer
+CUST-0772,Aditya Shah,Thane,Maharashtra,Standard
+CUST-0773,Karan Banerjee,Pune,Maharashtra,Standard
+CUST-0774,Karan Singh,Hyderabad,Telangana,Standard
+CUST-0775,Sneha Singh,Thane,Maharashtra,Standard
+CUST-0776,Pooja Joshi,Bengaluru,Karnataka,Frequent Buyer
+CUST-0777,Pooja Chopra,Bengaluru,Karnataka,Standard
+CUST-0778,Sneha Mehta,Chennai,Tamil Nadu,VIP Customer
+CUST-0779,Varun Banerjee,Ahmedabad,Gujarat,Standard
+CUST-0780,Varun Banerjee,Delhi,Delhi,VIP Customer
+CUST-0781,Priya Joshi,Hyderabad,Telangana,Standard
+CUST-0782,Rahul Verma,Mumbai,Maharashtra,Standard
+CUST-0783,Nikhil Patel,Bengaluru,Karnataka,Standard
+CUST-0784,Varun Joshi,Pune,Maharashtra,Standard
+CUST-0785,Diya Singh,Bengaluru,Karnataka,Standard
+CUST-0786,Aarav Chopra,Pune,Maharashtra,Standard
+CUST-0787,Rahul Reddy,Pune,Maharashtra,Frequent Buyer
+CUST-0788,Nikhil Banerjee,Delhi,Delhi,VIP Customer
+CUST-0789,Neha Deshmukh,Thane,Maharashtra,Standard
+CUST-0790,Nikhil Joshi,Jaipur,Rajasthan,Frequent Buyer
+CUST-0791,Aditya Sharma,Kolkata,West Bengal,Frequent Buyer
+CUST-0792,Nikhil Reddy,Hyderabad,Telangana,VIP Customer
+CUST-0793,Ananya Singh,Bengaluru,Karnataka,Standard
+CUST-0794,Karan Kulkarni,Hyderabad,Telangana,Standard
+CUST-0795,Riya Rao,Mumbai,Maharashtra,Frequent Buyer
+CUST-0796,Varun Patel,Hyderabad,Telangana,Standard
+CUST-0797,Sneha Reddy,Delhi,Delhi,Standard
+CUST-0798,Sneha Singh,Delhi,Delhi,Standard
+CUST-0799,Amit Singh,Kolkata,West Bengal,Standard
+CUST-0800,Nikhil Verma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0801,Kavya Singh,Bengaluru,Karnataka,Standard
+CUST-0802,Amit Reddy,Pune,Maharashtra,Standard
+CUST-0803,Rahul Patel,Chennai,Tamil Nadu,Standard
+CUST-0804,Neha Mehta,Ahmedabad,Gujarat,Standard
+CUST-0805,Varun Sharma,Mumbai,Maharashtra,Frequent Buyer
+CUST-0806,Sneha Patel,Pune,Maharashtra,Standard
+CUST-0807,Ishita Verma,Chennai,Tamil Nadu,Standard
+CUST-0808,Karan Patel,Hyderabad,Telangana,Frequent Buyer
+CUST-0809,Ishita Chopra,Jaipur,Rajasthan,Frequent Buyer
+CUST-0810,Rohan Nair,Kolkata,West Bengal,Standard
+CUST-0811,Nikhil Verma,Pune,Maharashtra,Frequent Buyer
+CUST-0812,Neha Kulkarni,Mumbai,Maharashtra,Standard
+CUST-0813,Aarav Mehta,Pune,Maharashtra,Frequent Buyer
+CUST-0814,Amit Joshi,Mumbai,Maharashtra,Standard
+CUST-0815,Aditya Chopra,Kolkata,West Bengal,Frequent Buyer
+CUST-0816,Priya Patel,Mumbai,Maharashtra,Frequent Buyer
+CUST-0817,Siddharth Verma,Kolkata,West Bengal,Standard
+CUST-0818,Sneha Singh,Delhi,Delhi,Standard
+CUST-0819,Kavya Chopra,Pune,Maharashtra,Standard
+CUST-0820,Rahul Banerjee,Thane,Maharashtra,Standard
+CUST-0821,Ishita Verma,Hyderabad,Telangana,Standard
+CUST-0822,Ananya Gupta,Chennai,Tamil Nadu,Standard
+CUST-0823,Ananya Verma,Hyderabad,Telangana,Frequent Buyer
+CUST-0824,Amit Reddy,Kolkata,West Bengal,Standard
+CUST-0825,Rohan Nair,Chennai,Tamil Nadu,Standard
+CUST-0826,Vikram Joshi,Kolkata,West Bengal,Frequent Buyer
+CUST-0827,Siddharth Shah,Mumbai,Maharashtra,VIP Customer
+CUST-0828,Nikhil Joshi,Bengaluru,Karnataka,Standard
+CUST-0829,Varun Kulkarni,Ahmedabad,Gujarat,Standard
+CUST-0830,Pooja Mehta,Jaipur,Rajasthan,Frequent Buyer
+CUST-0831,Riya Verma,Delhi,Delhi,Standard
+CUST-0832,Amit Deshmukh,Delhi,Delhi,Standard
+CUST-0833,Rahul Singh,Delhi,Delhi,Frequent Buyer
+CUST-0834,Diya Kulkarni,Thane,Maharashtra,Standard
+CUST-0835,Meera Nair,Thane,Maharashtra,Frequent Buyer
+CUST-0836,Diya Sharma,Ahmedabad,Gujarat,Standard
+CUST-0837,Meera Deshmukh,Mumbai,Maharashtra,Frequent Buyer
+CUST-0838,Meera Nair,Chennai,Tamil Nadu,Standard
+CUST-0839,Diya Rao,Bengaluru,Karnataka,Standard
+CUST-0840,Aarav Singh,Ahmedabad,Gujarat,Standard
+CUST-0841,Diya Mehta,Thane,Maharashtra,Frequent Buyer
+CUST-0842,Rahul Patel,Pune,Maharashtra,VIP Customer
+CUST-0843,Diya Patel,Kolkata,West Bengal,Standard
+CUST-0844,Aarav Chopra,Jaipur,Rajasthan,Frequent Buyer
+CUST-0845,Pooja Reddy,Kolkata,West Bengal,Standard
+CUST-0846,Karan Banerjee,Bengaluru,Karnataka,Standard
+CUST-0847,Diya Singh,Kolkata,West Bengal,VIP Customer
+CUST-0848,Siddharth Joshi,Ahmedabad,Gujarat,Standard
+CUST-0849,Diya Joshi,Pune,Maharashtra,Standard
+CUST-0850,Ishita Kulkarni,Bengaluru,Karnataka,Standard
+CUST-0851,Rohan Reddy,Ahmedabad,Gujarat,Standard
+CUST-0852,Diya Rao,Pune,Maharashtra,Standard
+CUST-0853,Rahul Verma,Ahmedabad,Gujarat,Standard
+CUST-0854,Ananya Rao,Delhi,Delhi,Frequent Buyer
+CUST-0855,Aarav Mehta,Hyderabad,Telangana,Frequent Buyer
+CUST-0856,Siddharth Nair,Thane,Maharashtra,VIP Customer
+CUST-0857,Meera Patel,Delhi,Delhi,Standard
+CUST-0858,Neha Deshmukh,Bengaluru,Karnataka,Standard
+CUST-0859,Karan Patel,Delhi,Delhi,Frequent Buyer
+CUST-0860,Pooja Joshi,Mumbai,Maharashtra,Standard
+CUST-0861,Pooja Shah,Bengaluru,Karnataka,Standard
+CUST-0862,Ananya Deshmukh,Hyderabad,Telangana,Frequent Buyer
+CUST-0863,Rohan Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-0864,Varun Chopra,Hyderabad,Telangana,Standard
+CUST-0865,Karan Rao,Kolkata,West Bengal,VIP Customer
+CUST-0866,Sneha Sharma,Jaipur,Rajasthan,Standard
+CUST-0867,Neha Chopra,Mumbai,Maharashtra,VIP Customer
+CUST-0868,Pooja Singh,Hyderabad,Telangana,Standard
+CUST-0869,Ananya Joshi,Ahmedabad,Gujarat,Standard
+CUST-0870,Aarav Kulkarni,Bengaluru,Karnataka,Standard
+CUST-0871,Diya Singh,Delhi,Delhi,Frequent Buyer
+CUST-0872,Priya Reddy,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0873,Aarav Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-0874,Rahul Deshmukh,Kolkata,West Bengal,Standard
+CUST-0875,Rohan Banerjee,Kolkata,West Bengal,Standard
+CUST-0876,Ananya Chopra,Thane,Maharashtra,Standard
+CUST-0877,Diya Gupta,Chennai,Tamil Nadu,Standard
+CUST-0878,Siddharth Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-0879,Meera Singh,Delhi,Delhi,VIP Customer
+CUST-0880,Siddharth Sharma,Hyderabad,Telangana,Standard
+CUST-0881,Pooja Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0882,Rahul Patel,Jaipur,Rajasthan,Standard
+CUST-0883,Neha Nair,Bengaluru,Karnataka,VIP Customer
+CUST-0884,Varun Reddy,Mumbai,Maharashtra,VIP Customer
+CUST-0885,Amit Reddy,Kolkata,West Bengal,Frequent Buyer
+CUST-0886,Varun Verma,Thane,Maharashtra,Standard
+CUST-0887,Siddharth Singh,Delhi,Delhi,Standard
+CUST-0888,Meera Deshmukh,Mumbai,Maharashtra,Standard
+CUST-0889,Kavya Joshi,Jaipur,Rajasthan,Frequent Buyer
+CUST-0890,Meera Shah,Hyderabad,Telangana,Standard
+CUST-0891,Sneha Banerjee,Pune,Maharashtra,Standard
+CUST-0892,Varun Singh,Mumbai,Maharashtra,Frequent Buyer
+CUST-0893,Siddharth Mehta,Hyderabad,Telangana,VIP Customer
+CUST-0894,Diya Singh,Kolkata,West Bengal,Standard
+CUST-0895,Nikhil Kulkarni,Thane,Maharashtra,Standard
+CUST-0896,Meera Gupta,Hyderabad,Telangana,Standard
+CUST-0897,Ananya Sharma,Pune,Maharashtra,VIP Customer
+CUST-0898,Ishita Verma,Bengaluru,Karnataka,VIP Customer
+CUST-0899,Rahul Gupta,Kolkata,West Bengal,Standard
+CUST-0900,Amit Shah,Delhi,Delhi,Frequent Buyer
+CUST-0901,Varun Singh,Chennai,Tamil Nadu,VIP Customer
+CUST-0902,Diya Rao,Thane,Maharashtra,Frequent Buyer
+CUST-0903,Aditya Chopra,Delhi,Delhi,VIP Customer
+CUST-0904,Karan Joshi,Jaipur,Rajasthan,Standard
+CUST-0905,Ananya Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-0906,Aditya Singh,Hyderabad,Telangana,Standard
+CUST-0907,Diya Banerjee,Pune,Maharashtra,Standard
+CUST-0908,Siddharth Deshmukh,Delhi,Delhi,Standard
+CUST-0909,Nikhil Sharma,Thane,Maharashtra,Standard
+CUST-0910,Varun Patel,Chennai,Tamil Nadu,Standard
+CUST-0911,Rohan Patel,Bengaluru,Karnataka,VIP Customer
+CUST-0912,Kavya Sharma,Jaipur,Rajasthan,Frequent Buyer
+CUST-0913,Riya Joshi,Delhi,Delhi,Standard
+CUST-0914,Aarav Verma,Delhi,Delhi,VIP Customer
+CUST-0915,Rahul Mehta,Jaipur,Rajasthan,Standard
+CUST-0916,Karan Rao,Jaipur,Rajasthan,Standard
+CUST-0917,Aarav Sharma,Jaipur,Rajasthan,Standard
+CUST-0918,Rahul Rao,Kolkata,West Bengal,VIP Customer
+CUST-0919,Karan Nair,Bengaluru,Karnataka,Standard
+CUST-0920,Diya Gupta,Pune,Maharashtra,Frequent Buyer
+CUST-0921,Amit Kulkarni,Chennai,Tamil Nadu,VIP Customer
+CUST-0922,Aditya Joshi,Kolkata,West Bengal,Frequent Buyer
+CUST-0923,Pooja Mehta,Chennai,Tamil Nadu,Standard
+CUST-0924,Rahul Banerjee,Delhi,Delhi,Standard
+CUST-0925,Ishita Kulkarni,Pune,Maharashtra,Standard
+CUST-0926,Priya Gupta,Ahmedabad,Gujarat,VIP Customer
+CUST-0927,Aarav Patel,Bengaluru,Karnataka,Standard
+CUST-0928,Priya Verma,Kolkata,West Bengal,Frequent Buyer
+CUST-0929,Pooja Mehta,Kolkata,West Bengal,Standard
+CUST-0930,Varun Kulkarni,Ahmedabad,Gujarat,Standard
+CUST-0931,Rahul Joshi,Delhi,Delhi,Standard
+CUST-0932,Siddharth Rao,Bengaluru,Karnataka,Standard
+CUST-0933,Sneha Joshi,Hyderabad,Telangana,Frequent Buyer
+CUST-0934,Vikram Kulkarni,Kolkata,West Bengal,Standard
+CUST-0935,Rohan Patel,Delhi,Delhi,Standard
+CUST-0936,Diya Deshmukh,Delhi,Delhi,Frequent Buyer
+CUST-0937,Amit Rao,Delhi,Delhi,Frequent Buyer
+CUST-0938,Meera Shah,Chennai,Tamil Nadu,Standard
+CUST-0939,Ishita Singh,Ahmedabad,Gujarat,Standard
+CUST-0940,Ishita Singh,Ahmedabad,Gujarat,VIP Customer
+CUST-0941,Vikram Nair,Delhi,Delhi,Frequent Buyer
+CUST-0942,Neha Sharma,Hyderabad,Telangana,Standard
+CUST-0943,Pooja Gupta,Chennai,Tamil Nadu,Standard
+CUST-0944,Siddharth Sharma,Thane,Maharashtra,VIP Customer
+CUST-0945,Varun Mehta,Jaipur,Rajasthan,VIP Customer
+CUST-0946,Aditya Deshmukh,Ahmedabad,Gujarat,Frequent Buyer
+CUST-0947,Nikhil Mehta,Ahmedabad,Gujarat,VIP Customer
+CUST-0948,Ananya Nair,Kolkata,West Bengal,Standard
+CUST-0949,Sneha Sharma,Chennai,Tamil Nadu,Standard
+CUST-0950,Vikram Banerjee,Jaipur,Rajasthan,Frequent Buyer
+CUST-0951,Ananya Singh,Mumbai,Maharashtra,Standard
+CUST-0952,Rahul Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-0953,Rohan Sharma,Delhi,Delhi,Frequent Buyer
+CUST-0954,Aarav Sharma,Chennai,Tamil Nadu,Standard
+CUST-0955,Priya Verma,Delhi,Delhi,Standard
+CUST-0956,Rohan Nair,Delhi,Delhi,Frequent Buyer
+CUST-0957,Kavya Verma,Mumbai,Maharashtra,Standard
+CUST-0958,Nikhil Deshmukh,Delhi,Delhi,Standard
+CUST-0959,Neha Patel,Mumbai,Maharashtra,Standard
+CUST-0960,Ishita Deshmukh,Bengaluru,Karnataka,Standard
+CUST-0961,Nikhil Chopra,Pune,Maharashtra,Standard
+CUST-0962,Riya Reddy,Jaipur,Rajasthan,Standard
+CUST-0963,Ananya Nair,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0964,Aditya Nair,Ahmedabad,Gujarat,Standard
+CUST-0965,Rohan Verma,Kolkata,West Bengal,Frequent Buyer
+CUST-0966,Nikhil Verma,Pune,Maharashtra,Standard
+CUST-0967,Aarav Sharma,Kolkata,West Bengal,Standard
+CUST-0968,Karan Joshi,Bengaluru,Karnataka,Standard
+CUST-0969,Sneha Sharma,Mumbai,Maharashtra,Standard
+CUST-0970,Aarav Shah,Bengaluru,Karnataka,Standard
+CUST-0971,Nikhil Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-0972,Amit Kulkarni,Thane,Maharashtra,VIP Customer
+CUST-0973,Vikram Reddy,Delhi,Delhi,Standard
+CUST-0974,Nikhil Deshmukh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-0975,Meera Reddy,Delhi,Delhi,Standard
+CUST-0976,Neha Gupta,Ahmedabad,Gujarat,Standard
+CUST-0977,Varun Verma,Jaipur,Rajasthan,VIP Customer
+CUST-0978,Siddharth Joshi,Bengaluru,Karnataka,Standard
+CUST-0979,Siddharth Sharma,Delhi,Delhi,Standard
+CUST-0980,Rohan Gupta,Chennai,Tamil Nadu,Standard
+CUST-0981,Ishita Verma,Pune,Maharashtra,Standard
+CUST-0982,Sneha Deshmukh,Jaipur,Rajasthan,Standard
+CUST-0983,Vikram Singh,Chennai,Tamil Nadu,Standard
+CUST-0984,Riya Singh,Hyderabad,Telangana,Standard
+CUST-0985,Diya Patel,Delhi,Delhi,Frequent Buyer
+CUST-0986,Ananya Deshmukh,Thane,Maharashtra,VIP Customer
+CUST-0987,Siddharth Sharma,Jaipur,Rajasthan,Frequent Buyer
+CUST-0988,Siddharth Singh,Hyderabad,Telangana,Standard
+CUST-0989,Priya Sharma,Thane,Maharashtra,Standard
+CUST-0990,Pooja Joshi,Ahmedabad,Gujarat,VIP Customer
+CUST-0991,Nikhil Joshi,Hyderabad,Telangana,Standard
+CUST-0992,Priya Verma,Hyderabad,Telangana,Standard
+CUST-0993,Varun Banerjee,Mumbai,Maharashtra,Standard
+CUST-0994,Siddharth Mehta,Mumbai,Maharashtra,VIP Customer
+CUST-0995,Priya Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-0996,Sneha Deshmukh,Jaipur,Rajasthan,Standard
+CUST-0997,Meera Patel,Thane,Maharashtra,Frequent Buyer
+CUST-0998,Amit Reddy,Bengaluru,Karnataka,Frequent Buyer
+CUST-0999,Nikhil Nair,Ahmedabad,Gujarat,Standard
+CUST-1000,Siddharth Gupta,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1001,Vikram Sharma,Kolkata,West Bengal,Frequent Buyer
+CUST-1002,Amit Reddy,Delhi,Delhi,Standard
+CUST-1003,Karan Verma,Bengaluru,Karnataka,Standard
+CUST-1004,Rohan Shah,Thane,Maharashtra,Frequent Buyer
+CUST-1005,Ishita Kulkarni,Thane,Maharashtra,Frequent Buyer
+CUST-1006,Nikhil Mehta,Hyderabad,Telangana,VIP Customer
+CUST-1007,Kavya Patel,Kolkata,West Bengal,Frequent Buyer
+CUST-1008,Kavya Nair,Mumbai,Maharashtra,Standard
+CUST-1009,Varun Rao,Jaipur,Rajasthan,Standard
+CUST-1010,Vikram Sharma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1011,Aditya Rao,Mumbai,Maharashtra,Standard
+CUST-1012,Ananya Banerjee,Bengaluru,Karnataka,Frequent Buyer
+CUST-1013,Neha Mehta,Hyderabad,Telangana,Standard
+CUST-1014,Amit Chopra,Bengaluru,Karnataka,Standard
+CUST-1015,Karan Gupta,Hyderabad,Telangana,Standard
+CUST-1016,Vikram Banerjee,Delhi,Delhi,Standard
+CUST-1017,Priya Chopra,Kolkata,West Bengal,Standard
+CUST-1018,Rohan Shah,Chennai,Tamil Nadu,Standard
+CUST-1019,Aarav Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-1020,Varun Gupta,Bengaluru,Karnataka,VIP Customer
+CUST-1021,Vikram Patel,Thane,Maharashtra,Frequent Buyer
+CUST-1022,Nikhil Patel,Delhi,Delhi,Frequent Buyer
+CUST-1023,Priya Chopra,Mumbai,Maharashtra,Standard
+CUST-1024,Pooja Kulkarni,Kolkata,West Bengal,Standard
+CUST-1025,Riya Nair,Jaipur,Rajasthan,Frequent Buyer
+CUST-1026,Kavya Kulkarni,Chennai,Tamil Nadu,VIP Customer
+CUST-1027,Kavya Gupta,Delhi,Delhi,Standard
+CUST-1028,Vikram Sharma,Jaipur,Rajasthan,Standard
+CUST-1029,Sneha Patel,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1030,Siddharth Deshmukh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1031,Varun Chopra,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1032,Siddharth Banerjee,Pune,Maharashtra,Standard
+CUST-1033,Rahul Shah,Chennai,Tamil Nadu,Standard
+CUST-1034,Rahul Sharma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1035,Ananya Joshi,Bengaluru,Karnataka,Frequent Buyer
+CUST-1036,Aarav Shah,Thane,Maharashtra,Standard
+CUST-1037,Nikhil Shah,Jaipur,Rajasthan,Standard
+CUST-1038,Priya Verma,Pune,Maharashtra,Standard
+CUST-1039,Amit Deshmukh,Chennai,Tamil Nadu,Standard
+CUST-1040,Amit Shah,Hyderabad,Telangana,VIP Customer
+CUST-1041,Karan Banerjee,Kolkata,West Bengal,Standard
+CUST-1042,Aarav Patel,Mumbai,Maharashtra,Frequent Buyer
+CUST-1043,Amit Gupta,Kolkata,West Bengal,Standard
+CUST-1044,Ananya Patel,Thane,Maharashtra,Standard
+CUST-1045,Ananya Banerjee,Mumbai,Maharashtra,Standard
+CUST-1046,Vikram Nair,Mumbai,Maharashtra,Frequent Buyer
+CUST-1047,Rahul Joshi,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1048,Vikram Gupta,Pune,Maharashtra,Standard
+CUST-1049,Aarav Sharma,Bengaluru,Karnataka,Frequent Buyer
+CUST-1050,Rohan Reddy,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1051,Ishita Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-1052,Aarav Banerjee,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1053,Nikhil Chopra,Ahmedabad,Gujarat,Standard
+CUST-1054,Vikram Shah,Ahmedabad,Gujarat,Standard
+CUST-1055,Ananya Rao,Pune,Maharashtra,Frequent Buyer
+CUST-1056,Karan Joshi,Pune,Maharashtra,Standard
+CUST-1057,Neha Verma,Ahmedabad,Gujarat,VIP Customer
+CUST-1058,Neha Deshmukh,Thane,Maharashtra,Standard
+CUST-1059,Neha Mehta,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1060,Varun Banerjee,Delhi,Delhi,Standard
+CUST-1061,Amit Mehta,Hyderabad,Telangana,VIP Customer
+CUST-1062,Rohan Patel,Jaipur,Rajasthan,Standard
+CUST-1063,Priya Singh,Kolkata,West Bengal,Standard
+CUST-1064,Karan Singh,Jaipur,Rajasthan,Standard
+CUST-1065,Varun Rao,Thane,Maharashtra,Standard
+CUST-1066,Amit Rao,Thane,Maharashtra,Standard
+CUST-1067,Aditya Banerjee,Ahmedabad,Gujarat,Standard
+CUST-1068,Riya Sharma,Jaipur,Rajasthan,Standard
+CUST-1069,Diya Banerjee,Pune,Maharashtra,Standard
+CUST-1070,Sneha Banerjee,Ahmedabad,Gujarat,Standard
+CUST-1071,Rohan Joshi,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1072,Pooja Joshi,Delhi,Delhi,Standard
+CUST-1073,Diya Gupta,Jaipur,Rajasthan,Standard
+CUST-1074,Ishita Nair,Hyderabad,Telangana,Standard
+CUST-1075,Neha Banerjee,Ahmedabad,Gujarat,Standard
+CUST-1076,Diya Singh,Jaipur,Rajasthan,Standard
+CUST-1077,Ananya Verma,Mumbai,Maharashtra,Standard
+CUST-1078,Meera Shah,Jaipur,Rajasthan,Frequent Buyer
+CUST-1079,Amit Patel,Hyderabad,Telangana,VIP Customer
+CUST-1080,Rahul Chopra,Mumbai,Maharashtra,Standard
+CUST-1081,Vikram Deshmukh,Delhi,Delhi,Standard
+CUST-1082,Amit Reddy,Bengaluru,Karnataka,Frequent Buyer
+CUST-1083,Sneha Nair,Chennai,Tamil Nadu,Standard
+CUST-1084,Riya Chopra,Bengaluru,Karnataka,Standard
+CUST-1085,Aarav Joshi,Kolkata,West Bengal,Standard
+CUST-1086,Rohan Reddy,Hyderabad,Telangana,Standard
+CUST-1087,Kavya Verma,Kolkata,West Bengal,Frequent Buyer
+CUST-1088,Kavya Singh,Ahmedabad,Gujarat,Standard
+CUST-1089,Neha Banerjee,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1090,Neha Singh,Thane,Maharashtra,Frequent Buyer
+CUST-1091,Ishita Singh,Hyderabad,Telangana,VIP Customer
+CUST-1092,Rohan Banerjee,Jaipur,Rajasthan,Standard
+CUST-1093,Rohan Mehta,Mumbai,Maharashtra,Frequent Buyer
+CUST-1094,Nikhil Deshmukh,Bengaluru,Karnataka,Standard
+CUST-1095,Rohan Deshmukh,Bengaluru,Karnataka,Standard
+CUST-1096,Meera Sharma,Kolkata,West Bengal,Frequent Buyer
+CUST-1097,Amit Singh,Chennai,Tamil Nadu,Standard
+CUST-1098,Ishita Joshi,Pune,Maharashtra,Frequent Buyer
+CUST-1099,Nikhil Rao,Jaipur,Rajasthan,Standard
+CUST-1100,Karan Verma,Pune,Maharashtra,Frequent Buyer
+CUST-1101,Riya Patel,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1102,Aditya Reddy,Thane,Maharashtra,Standard
+CUST-1103,Diya Verma,Pune,Maharashtra,Frequent Buyer
+CUST-1104,Pooja Mehta,Mumbai,Maharashtra,VIP Customer
+CUST-1105,Meera Nair,Thane,Maharashtra,VIP Customer
+CUST-1106,Diya Joshi,Bengaluru,Karnataka,Standard
+CUST-1107,Siddharth Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-1108,Aarav Kulkarni,Pune,Maharashtra,Standard
+CUST-1109,Diya Deshmukh,Kolkata,West Bengal,Standard
+CUST-1110,Kavya Shah,Mumbai,Maharashtra,Standard
+CUST-1111,Ishita Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-1112,Riya Shah,Kolkata,West Bengal,VIP Customer
+CUST-1113,Rahul Banerjee,Kolkata,West Bengal,Standard
+CUST-1114,Sneha Verma,Mumbai,Maharashtra,VIP Customer
+CUST-1115,Karan Nair,Jaipur,Rajasthan,Standard
+CUST-1116,Riya Nair,Hyderabad,Telangana,Standard
+CUST-1117,Varun Mehta,Jaipur,Rajasthan,Frequent Buyer
+CUST-1118,Ishita Banerjee,Chennai,Tamil Nadu,VIP Customer
+CUST-1119,Ishita Singh,Kolkata,West Bengal,Frequent Buyer
+CUST-1120,Siddharth Patel,Kolkata,West Bengal,Standard
+CUST-1121,Pooja Sharma,Bengaluru,Karnataka,Frequent Buyer
+CUST-1122,Neha Reddy,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1123,Vikram Joshi,Delhi,Delhi,VIP Customer
+CUST-1124,Varun Gupta,Mumbai,Maharashtra,VIP Customer
+CUST-1125,Kavya Singh,Pune,Maharashtra,Frequent Buyer
+CUST-1126,Diya Gupta,Chennai,Tamil Nadu,Standard
+CUST-1127,Meera Deshmukh,Delhi,Delhi,VIP Customer
+CUST-1128,Amit Joshi,Delhi,Delhi,Standard
+CUST-1129,Neha Nair,Bengaluru,Karnataka,Standard
+CUST-1130,Neha Singh,Kolkata,West Bengal,Standard
+CUST-1131,Pooja Kulkarni,Kolkata,West Bengal,Standard
+CUST-1132,Rahul Mehta,Delhi,Delhi,Standard
+CUST-1133,Priya Reddy,Hyderabad,Telangana,Frequent Buyer
+CUST-1134,Ananya Reddy,Hyderabad,Telangana,Standard
+CUST-1135,Sneha Gupta,Bengaluru,Karnataka,Standard
+CUST-1136,Rohan Chopra,Kolkata,West Bengal,Standard
+CUST-1137,Varun Sharma,Chennai,Tamil Nadu,Standard
+CUST-1138,Pooja Joshi,Jaipur,Rajasthan,Standard
+CUST-1139,Rahul Rao,Ahmedabad,Gujarat,Standard
+CUST-1140,Diya Nair,Pune,Maharashtra,Frequent Buyer
+CUST-1141,Amit Reddy,Jaipur,Rajasthan,Standard
+CUST-1142,Rahul Sharma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1143,Riya Gupta,Kolkata,West Bengal,Standard
+CUST-1144,Rahul Rao,Thane,Maharashtra,Standard
+CUST-1145,Nikhil Chopra,Hyderabad,Telangana,Standard
+CUST-1146,Ishita Verma,Pune,Maharashtra,Standard
+CUST-1147,Priya Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1148,Rahul Banerjee,Kolkata,West Bengal,VIP Customer
+CUST-1149,Sneha Patel,Bengaluru,Karnataka,Frequent Buyer
+CUST-1150,Kavya Reddy,Jaipur,Rajasthan,Standard
+CUST-1151,Neha Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1152,Sneha Nair,Hyderabad,Telangana,Standard
+CUST-1153,Rohan Banerjee,Pune,Maharashtra,Standard
+CUST-1154,Sneha Nair,Hyderabad,Telangana,Standard
+CUST-1155,Sneha Shah,Ahmedabad,Gujarat,Standard
+CUST-1156,Rohan Singh,Jaipur,Rajasthan,Standard
+CUST-1157,Riya Rao,Bengaluru,Karnataka,Standard
+CUST-1158,Riya Kulkarni,Bengaluru,Karnataka,Standard
+CUST-1159,Rahul Banerjee,Delhi,Delhi,Frequent Buyer
+CUST-1160,Varun Mehta,Thane,Maharashtra,Standard
+CUST-1161,Priya Sharma,Mumbai,Maharashtra,Standard
+CUST-1162,Neha Verma,Mumbai,Maharashtra,VIP Customer
+CUST-1163,Kavya Nair,Chennai,Tamil Nadu,Standard
+CUST-1164,Amit Singh,Jaipur,Rajasthan,Standard
+CUST-1165,Varun Chopra,Bengaluru,Karnataka,Frequent Buyer
+CUST-1166,Ananya Deshmukh,Chennai,Tamil Nadu,Standard
+CUST-1167,Vikram Banerjee,Mumbai,Maharashtra,Frequent Buyer
+CUST-1168,Rahul Singh,Thane,Maharashtra,Standard
+CUST-1169,Ishita Kulkarni,Bengaluru,Karnataka,Frequent Buyer
+CUST-1170,Riya Reddy,Pune,Maharashtra,VIP Customer
+CUST-1171,Diya Reddy,Jaipur,Rajasthan,Standard
+CUST-1172,Aarav Rao,Delhi,Delhi,Standard
+CUST-1173,Amit Sharma,Hyderabad,Telangana,Frequent Buyer
+CUST-1174,Ishita Rao,Thane,Maharashtra,Standard
+CUST-1175,Rahul Shah,Mumbai,Maharashtra,VIP Customer
+CUST-1176,Neha Singh,Kolkata,West Bengal,Standard
+CUST-1177,Karan Nair,Mumbai,Maharashtra,Standard
+CUST-1178,Karan Kulkarni,Pune,Maharashtra,Standard
+CUST-1179,Aarav Gupta,Mumbai,Maharashtra,Frequent Buyer
+CUST-1180,Neha Kulkarni,Bengaluru,Karnataka,VIP Customer
+CUST-1181,Meera Deshmukh,Hyderabad,Telangana,Standard
+CUST-1182,Neha Rao,Pune,Maharashtra,Standard
+CUST-1183,Karan Nair,Pune,Maharashtra,Standard
+CUST-1184,Ananya Reddy,Pune,Maharashtra,Standard
+CUST-1185,Varun Deshmukh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1186,Ananya Deshmukh,Hyderabad,Telangana,VIP Customer
+CUST-1187,Riya Mehta,Pune,Maharashtra,Standard
+CUST-1188,Karan Mehta,Mumbai,Maharashtra,VIP Customer
+CUST-1189,Varun Rao,Delhi,Delhi,Standard
+CUST-1190,Rohan Shah,Pune,Maharashtra,Standard
+CUST-1191,Pooja Verma,Mumbai,Maharashtra,VIP Customer
+CUST-1192,Diya Nair,Mumbai,Maharashtra,VIP Customer
+CUST-1193,Priya Deshmukh,Thane,Maharashtra,Standard
+CUST-1194,Amit Nair,Ahmedabad,Gujarat,Standard
+CUST-1195,Kavya Banerjee,Kolkata,West Bengal,Standard
+CUST-1196,Rohan Gupta,Thane,Maharashtra,Standard
+CUST-1197,Pooja Rao,Hyderabad,Telangana,Frequent Buyer
+CUST-1198,Pooja Patel,Kolkata,West Bengal,VIP Customer
+CUST-1199,Rohan Gupta,Bengaluru,Karnataka,VIP Customer
+CUST-1200,Amit Patel,Mumbai,Maharashtra,Standard
+CUST-1201,Diya Gupta,Bengaluru,Karnataka,Frequent Buyer
+CUST-1202,Meera Mehta,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1203,Ishita Kulkarni,Delhi,Delhi,Standard
+CUST-1204,Ananya Shah,Hyderabad,Telangana,VIP Customer
+CUST-1205,Riya Sharma,Bengaluru,Karnataka,Frequent Buyer
+CUST-1206,Aarav Mehta,Bengaluru,Karnataka,Standard
+CUST-1207,Kavya Mehta,Jaipur,Rajasthan,Frequent Buyer
+CUST-1208,Aditya Deshmukh,Ahmedabad,Gujarat,VIP Customer
+CUST-1209,Priya Singh,Chennai,Tamil Nadu,VIP Customer
+CUST-1210,Neha Kulkarni,Pune,Maharashtra,Frequent Buyer
+CUST-1211,Meera Gupta,Kolkata,West Bengal,Standard
+CUST-1212,Neha Kulkarni,Mumbai,Maharashtra,Standard
+CUST-1213,Rahul Joshi,Bengaluru,Karnataka,Standard
+CUST-1214,Rahul Deshmukh,Kolkata,West Bengal,Standard
+CUST-1215,Ishita Verma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1216,Karan Chopra,Pune,Maharashtra,Standard
+CUST-1217,Rahul Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1218,Siddharth Kulkarni,Hyderabad,Telangana,VIP Customer
+CUST-1219,Amit Verma,Bengaluru,Karnataka,Standard
+CUST-1220,Diya Sharma,Delhi,Delhi,Standard
+CUST-1221,Aditya Reddy,Kolkata,West Bengal,Standard
+CUST-1222,Pooja Deshmukh,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1223,Sneha Patel,Mumbai,Maharashtra,Standard
+CUST-1224,Amit Sharma,Kolkata,West Bengal,Standard
+CUST-1225,Rahul Sharma,Jaipur,Rajasthan,Frequent Buyer
+CUST-1226,Rohan Shah,Hyderabad,Telangana,Standard
+CUST-1227,Amit Deshmukh,Kolkata,West Bengal,Frequent Buyer
+CUST-1228,Rohan Chopra,Mumbai,Maharashtra,Standard
+CUST-1229,Varun Kulkarni,Hyderabad,Telangana,Standard
+CUST-1230,Amit Joshi,Jaipur,Rajasthan,Standard
+CUST-1231,Sneha Singh,Hyderabad,Telangana,Frequent Buyer
+CUST-1232,Priya Sharma,Thane,Maharashtra,VIP Customer
+CUST-1233,Diya Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-1234,Varun Patel,Pune,Maharashtra,Standard
+CUST-1235,Rohan Gupta,Delhi,Delhi,Frequent Buyer
+CUST-1236,Varun Kulkarni,Kolkata,West Bengal,Standard
+CUST-1237,Rohan Mehta,Mumbai,Maharashtra,Standard
+CUST-1238,Kavya Joshi,Jaipur,Rajasthan,Standard
+CUST-1239,Neha Singh,Delhi,Delhi,Standard
+CUST-1240,Rahul Gupta,Delhi,Delhi,Standard
+CUST-1241,Rohan Deshmukh,Thane,Maharashtra,Standard
+CUST-1242,Vikram Banerjee,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1243,Diya Patel,Chennai,Tamil Nadu,Standard
+CUST-1244,Ishita Patel,Ahmedabad,Gujarat,Standard
+CUST-1245,Meera Verma,Hyderabad,Telangana,Frequent Buyer
+CUST-1246,Ananya Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1247,Aditya Shah,Chennai,Tamil Nadu,Standard
+CUST-1248,Kavya Chopra,Jaipur,Rajasthan,Standard
+CUST-1249,Sneha Gupta,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1250,Siddharth Joshi,Kolkata,West Bengal,VIP Customer
+CUST-1251,Ishita Nair,Hyderabad,Telangana,Standard
+CUST-1252,Pooja Singh,Pune,Maharashtra,Frequent Buyer
+CUST-1253,Priya Sharma,Delhi,Delhi,Frequent Buyer
+CUST-1254,Sneha Patel,Bengaluru,Karnataka,VIP Customer
+CUST-1255,Ishita Kulkarni,Delhi,Delhi,Standard
+CUST-1256,Rohan Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-1257,Kavya Sharma,Chennai,Tamil Nadu,Standard
+CUST-1258,Siddharth Kulkarni,Ahmedabad,Gujarat,Standard
+CUST-1259,Amit Mehta,Bengaluru,Karnataka,Standard
+CUST-1260,Ananya Banerjee,Ahmedabad,Gujarat,Standard
+CUST-1261,Pooja Shah,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1262,Siddharth Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-1263,Ishita Verma,Delhi,Delhi,Standard
+CUST-1264,Rahul Kulkarni,Bengaluru,Karnataka,Standard
+CUST-1265,Diya Rao,Thane,Maharashtra,Standard
+CUST-1266,Karan Sharma,Hyderabad,Telangana,Standard
+CUST-1267,Ishita Deshmukh,Pune,Maharashtra,Frequent Buyer
+CUST-1268,Diya Chopra,Jaipur,Rajasthan,Standard
+CUST-1269,Ananya Gupta,Chennai,Tamil Nadu,Standard
+CUST-1270,Vikram Reddy,Kolkata,West Bengal,Standard
+CUST-1271,Diya Banerjee,Kolkata,West Bengal,Frequent Buyer
+CUST-1272,Varun Nair,Mumbai,Maharashtra,Standard
+CUST-1273,Aditya Gupta,Kolkata,West Bengal,Standard
+CUST-1274,Amit Chopra,Hyderabad,Telangana,Standard
+CUST-1275,Ishita Shah,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1276,Aditya Banerjee,Delhi,Delhi,Standard
+CUST-1277,Amit Shah,Delhi,Delhi,Standard
+CUST-1278,Aditya Singh,Jaipur,Rajasthan,VIP Customer
+CUST-1279,Sneha Reddy,Delhi,Delhi,Standard
+CUST-1280,Ishita Verma,Hyderabad,Telangana,Standard
+CUST-1281,Rahul Patel,Delhi,Delhi,Frequent Buyer
+CUST-1282,Priya Deshmukh,Hyderabad,Telangana,Standard
+CUST-1283,Siddharth Kulkarni,Delhi,Delhi,Standard
+CUST-1284,Sneha Mehta,Hyderabad,Telangana,Frequent Buyer
+CUST-1285,Riya Rao,Ahmedabad,Gujarat,Standard
+CUST-1286,Meera Joshi,Thane,Maharashtra,Standard
+CUST-1287,Priya Banerjee,Bengaluru,Karnataka,VIP Customer
+CUST-1288,Siddharth Gupta,Jaipur,Rajasthan,Standard
+CUST-1289,Nikhil Gupta,Delhi,Delhi,Frequent Buyer
+CUST-1290,Nikhil Reddy,Pune,Maharashtra,Standard
+CUST-1291,Riya Gupta,Thane,Maharashtra,Standard
+CUST-1292,Varun Shah,Kolkata,West Bengal,Standard
+CUST-1293,Aarav Singh,Kolkata,West Bengal,Standard
+CUST-1294,Vikram Gupta,Delhi,Delhi,Standard
+CUST-1295,Aarav Singh,Mumbai,Maharashtra,VIP Customer
+CUST-1296,Amit Chopra,Mumbai,Maharashtra,Frequent Buyer
+CUST-1297,Ananya Gupta,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1298,Karan Nair,Pune,Maharashtra,Standard
+CUST-1299,Diya Patel,Pune,Maharashtra,Frequent Buyer
+CUST-1300,Ananya Sharma,Mumbai,Maharashtra,Frequent Buyer
+CUST-1301,Riya Deshmukh,Hyderabad,Telangana,Standard
+CUST-1302,Pooja Nair,Jaipur,Rajasthan,Standard
+CUST-1303,Siddharth Deshmukh,Kolkata,West Bengal,Standard
+CUST-1304,Ishita Banerjee,Bengaluru,Karnataka,Frequent Buyer
+CUST-1305,Meera Singh,Delhi,Delhi,Standard
+CUST-1306,Ananya Chopra,Thane,Maharashtra,Standard
+CUST-1307,Siddharth Gupta,Jaipur,Rajasthan,Standard
+CUST-1308,Ishita Mehta,Thane,Maharashtra,Standard
+CUST-1309,Aarav Patel,Thane,Maharashtra,Standard
+CUST-1310,Ananya Reddy,Kolkata,West Bengal,Frequent Buyer
+CUST-1311,Amit Chopra,Thane,Maharashtra,Standard
+CUST-1312,Vikram Nair,Delhi,Delhi,Standard
+CUST-1313,Meera Nair,Bengaluru,Karnataka,Standard
+CUST-1314,Diya Deshmukh,Jaipur,Rajasthan,Standard
+CUST-1315,Rahul Mehta,Delhi,Delhi,Frequent Buyer
+CUST-1316,Aarav Banerjee,Delhi,Delhi,Frequent Buyer
+CUST-1317,Sneha Patel,Thane,Maharashtra,Standard
+CUST-1318,Priya Joshi,Bengaluru,Karnataka,Frequent Buyer
+CUST-1319,Kavya Deshmukh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1320,Rahul Kulkarni,Mumbai,Maharashtra,Standard
+CUST-1321,Kavya Reddy,Chennai,Tamil Nadu,Standard
+CUST-1322,Amit Chopra,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1323,Neha Singh,Delhi,Delhi,Standard
+CUST-1324,Rohan Sharma,Mumbai,Maharashtra,Standard
+CUST-1325,Neha Banerjee,Hyderabad,Telangana,VIP Customer
+CUST-1326,Aditya Rao,Pune,Maharashtra,Standard
+CUST-1327,Ananya Banerjee,Ahmedabad,Gujarat,VIP Customer
+CUST-1328,Neha Kulkarni,Ahmedabad,Gujarat,Standard
+CUST-1329,Karan Kulkarni,Chennai,Tamil Nadu,VIP Customer
+CUST-1330,Karan Banerjee,Kolkata,West Bengal,Standard
+CUST-1331,Riya Shah,Pune,Maharashtra,Standard
+CUST-1332,Amit Sharma,Jaipur,Rajasthan,Standard
+CUST-1333,Sneha Nair,Delhi,Delhi,Standard
+CUST-1334,Aarav Patel,Pune,Maharashtra,Frequent Buyer
+CUST-1335,Diya Chopra,Bengaluru,Karnataka,Standard
+CUST-1336,Siddharth Kulkarni,Delhi,Delhi,Frequent Buyer
+CUST-1337,Nikhil Deshmukh,Hyderabad,Telangana,Standard
+CUST-1338,Riya Reddy,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1339,Karan Patel,Hyderabad,Telangana,Standard
+CUST-1340,Pooja Gupta,Kolkata,West Bengal,Standard
+CUST-1341,Karan Banerjee,Jaipur,Rajasthan,Standard
+CUST-1342,Nikhil Kulkarni,Delhi,Delhi,VIP Customer
+CUST-1343,Kavya Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1344,Ananya Singh,Hyderabad,Telangana,Standard
+CUST-1345,Kavya Mehta,Hyderabad,Telangana,Standard
+CUST-1346,Aarav Patel,Jaipur,Rajasthan,Frequent Buyer
+CUST-1347,Amit Nair,Delhi,Delhi,Standard
+CUST-1348,Priya Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1349,Kavya Chopra,Hyderabad,Telangana,Standard
+CUST-1350,Aditya Shah,Bengaluru,Karnataka,Frequent Buyer
+CUST-1351,Rahul Rao,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1352,Riya Deshmukh,Hyderabad,Telangana,Frequent Buyer
+CUST-1353,Vikram Shah,Mumbai,Maharashtra,Standard
+CUST-1354,Siddharth Kulkarni,Hyderabad,Telangana,Frequent Buyer
+CUST-1355,Karan Reddy,Thane,Maharashtra,Standard
+CUST-1356,Nikhil Sharma,Ahmedabad,Gujarat,Standard
+CUST-1357,Varun Patel,Pune,Maharashtra,Standard
+CUST-1358,Rahul Reddy,Delhi,Delhi,Standard
+CUST-1359,Nikhil Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-1360,Riya Gupta,Bengaluru,Karnataka,Standard
+CUST-1361,Pooja Kulkarni,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1362,Varun Rao,Thane,Maharashtra,Standard
+CUST-1363,Vikram Banerjee,Ahmedabad,Gujarat,Standard
+CUST-1364,Aarav Sharma,Delhi,Delhi,Standard
+CUST-1365,Priya Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-1366,Priya Sharma,Hyderabad,Telangana,Standard
+CUST-1367,Siddharth Banerjee,Thane,Maharashtra,Standard
+CUST-1368,Nikhil Mehta,Kolkata,West Bengal,Standard
+CUST-1369,Meera Chopra,Ahmedabad,Gujarat,Standard
+CUST-1370,Amit Singh,Pune,Maharashtra,Standard
+CUST-1371,Aditya Sharma,Delhi,Delhi,Standard
+CUST-1372,Ishita Kulkarni,Jaipur,Rajasthan,Standard
+CUST-1373,Karan Verma,Hyderabad,Telangana,Frequent Buyer
+CUST-1374,Meera Gupta,Delhi,Delhi,Standard
+CUST-1375,Aarav Reddy,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1376,Rahul Deshmukh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1377,Nikhil Joshi,Kolkata,West Bengal,Standard
+CUST-1378,Pooja Sharma,Bengaluru,Karnataka,Standard
+CUST-1379,Vikram Rao,Hyderabad,Telangana,Frequent Buyer
+CUST-1380,Aarav Singh,Chennai,Tamil Nadu,Standard
+CUST-1381,Riya Kulkarni,Thane,Maharashtra,Standard
+CUST-1382,Meera Patel,Hyderabad,Telangana,Standard
+CUST-1383,Diya Deshmukh,Thane,Maharashtra,Standard
+CUST-1384,Diya Singh,Mumbai,Maharashtra,Standard
+CUST-1385,Meera Mehta,Delhi,Delhi,Standard
+CUST-1386,Ananya Chopra,Kolkata,West Bengal,VIP Customer
+CUST-1387,Ishita Reddy,Jaipur,Rajasthan,Standard
+CUST-1388,Varun Rao,Pune,Maharashtra,Standard
+CUST-1389,Aditya Kulkarni,Hyderabad,Telangana,Frequent Buyer
+CUST-1390,Pooja Singh,Bengaluru,Karnataka,Frequent Buyer
+CUST-1391,Amit Patel,Chennai,Tamil Nadu,Standard
+CUST-1392,Sneha Chopra,Pune,Maharashtra,Standard
+CUST-1393,Rohan Nair,Pune,Maharashtra,Standard
+CUST-1394,Riya Reddy,Jaipur,Rajasthan,Standard
+CUST-1395,Rohan Banerjee,Bengaluru,Karnataka,Standard
+CUST-1396,Ishita Rao,Pune,Maharashtra,Standard
+CUST-1397,Vikram Reddy,Bengaluru,Karnataka,Frequent Buyer
+CUST-1398,Siddharth Deshmukh,Thane,Maharashtra,Standard
+CUST-1399,Diya Sharma,Bengaluru,Karnataka,Standard
+CUST-1400,Varun Rao,Kolkata,West Bengal,VIP Customer
+CUST-1401,Varun Chopra,Ahmedabad,Gujarat,Standard
+CUST-1402,Priya Rao,Ahmedabad,Gujarat,Standard
+CUST-1403,Amit Joshi,Hyderabad,Telangana,VIP Customer
+CUST-1404,Rahul Singh,Thane,Maharashtra,Standard
+CUST-1405,Nikhil Nair,Thane,Maharashtra,Standard
+CUST-1406,Neha Mehta,Ahmedabad,Gujarat,Standard
+CUST-1407,Kavya Rao,Delhi,Delhi,Standard
+CUST-1408,Neha Deshmukh,Pune,Maharashtra,Frequent Buyer
+CUST-1409,Rahul Banerjee,Chennai,Tamil Nadu,Standard
+CUST-1410,Meera Reddy,Delhi,Delhi,Standard
+CUST-1411,Rahul Verma,Jaipur,Rajasthan,Standard
+CUST-1412,Amit Rao,Thane,Maharashtra,Frequent Buyer
+CUST-1413,Rohan Kulkarni,Pune,Maharashtra,Standard
+CUST-1414,Rahul Chopra,Hyderabad,Telangana,Standard
+CUST-1415,Nikhil Singh,Mumbai,Maharashtra,VIP Customer
+CUST-1416,Nikhil Verma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1417,Nikhil Chopra,Mumbai,Maharashtra,Frequent Buyer
+CUST-1418,Aditya Gupta,Mumbai,Maharashtra,Frequent Buyer
+CUST-1419,Neha Deshmukh,Pune,Maharashtra,Standard
+CUST-1420,Ishita Chopra,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1421,Diya Kulkarni,Kolkata,West Bengal,VIP Customer
+CUST-1422,Neha Joshi,Bengaluru,Karnataka,VIP Customer
+CUST-1423,Sneha Kulkarni,Mumbai,Maharashtra,Standard
+CUST-1424,Karan Singh,Chennai,Tamil Nadu,Standard
+CUST-1425,Amit Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-1426,Rahul Chopra,Chennai,Tamil Nadu,Standard
+CUST-1427,Amit Nair,Pune,Maharashtra,Standard
+CUST-1428,Meera Mehta,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1429,Rahul Rao,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1430,Neha Banerjee,Jaipur,Rajasthan,Standard
+CUST-1431,Riya Joshi,Chennai,Tamil Nadu,VIP Customer
+CUST-1432,Siddharth Verma,Mumbai,Maharashtra,Standard
+CUST-1433,Siddharth Deshmukh,Thane,Maharashtra,VIP Customer
+CUST-1434,Sneha Banerjee,Hyderabad,Telangana,Standard
+CUST-1435,Neha Patel,Thane,Maharashtra,Standard
+CUST-1436,Aarav Nair,Pune,Maharashtra,Standard
+CUST-1437,Riya Banerjee,Mumbai,Maharashtra,Standard
+CUST-1438,Aarav Mehta,Pune,Maharashtra,Standard
+CUST-1439,Karan Verma,Mumbai,Maharashtra,Frequent Buyer
+CUST-1440,Nikhil Kulkarni,Thane,Maharashtra,Standard
+CUST-1441,Nikhil Rao,Hyderabad,Telangana,Standard
+CUST-1442,Aarav Verma,Pune,Maharashtra,Standard
+CUST-1443,Meera Verma,Kolkata,West Bengal,Standard
+CUST-1444,Sneha Rao,Hyderabad,Telangana,Standard
+CUST-1445,Pooja Gupta,Chennai,Tamil Nadu,Standard
+CUST-1446,Meera Chopra,Delhi,Delhi,Standard
+CUST-1447,Amit Mehta,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1448,Rahul Rao,Ahmedabad,Gujarat,Standard
+CUST-1449,Ishita Reddy,Mumbai,Maharashtra,Standard
+CUST-1450,Aditya Kulkarni,Delhi,Delhi,Frequent Buyer
+CUST-1451,Amit Verma,Thane,Maharashtra,Frequent Buyer
+CUST-1452,Pooja Banerjee,Delhi,Delhi,Frequent Buyer
+CUST-1453,Neha Patel,Ahmedabad,Gujarat,Standard
+CUST-1454,Karan Patel,Ahmedabad,Gujarat,VIP Customer
+CUST-1455,Rahul Mehta,Jaipur,Rajasthan,Standard
+CUST-1456,Pooja Chopra,Bengaluru,Karnataka,Frequent Buyer
+CUST-1457,Vikram Verma,Delhi,Delhi,Frequent Buyer
+CUST-1458,Vikram Nair,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1459,Kavya Gupta,Bengaluru,Karnataka,Frequent Buyer
+CUST-1460,Meera Mehta,Chennai,Tamil Nadu,Standard
+CUST-1461,Rahul Verma,Mumbai,Maharashtra,VIP Customer
+CUST-1462,Vikram Chopra,Jaipur,Rajasthan,Standard
+CUST-1463,Rohan Gupta,Hyderabad,Telangana,Standard
+CUST-1464,Riya Joshi,Hyderabad,Telangana,Standard
+CUST-1465,Amit Shah,Pune,Maharashtra,Frequent Buyer
+CUST-1466,Siddharth Mehta,Kolkata,West Bengal,Frequent Buyer
+CUST-1467,Rohan Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-1468,Sneha Mehta,Pune,Maharashtra,Standard
+CUST-1469,Varun Rao,Pune,Maharashtra,VIP Customer
+CUST-1470,Neha Patel,Hyderabad,Telangana,Standard
+CUST-1471,Nikhil Gupta,Delhi,Delhi,Standard
+CUST-1472,Pooja Verma,Chennai,Tamil Nadu,Standard
+CUST-1473,Meera Kulkarni,Hyderabad,Telangana,Frequent Buyer
+CUST-1474,Varun Shah,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1475,Nikhil Shah,Jaipur,Rajasthan,Standard
+CUST-1476,Karan Deshmukh,Pune,Maharashtra,Standard
+CUST-1477,Ishita Joshi,Pune,Maharashtra,Frequent Buyer
+CUST-1478,Neha Patel,Chennai,Tamil Nadu,VIP Customer
+CUST-1479,Vikram Rao,Hyderabad,Telangana,VIP Customer
+CUST-1480,Priya Patel,Kolkata,West Bengal,Frequent Buyer
+CUST-1481,Rahul Nair,Hyderabad,Telangana,Frequent Buyer
+CUST-1482,Ishita Deshmukh,Mumbai,Maharashtra,Standard
+CUST-1483,Siddharth Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1484,Aarav Verma,Bengaluru,Karnataka,Standard
+CUST-1485,Siddharth Singh,Bengaluru,Karnataka,Frequent Buyer
+CUST-1486,Ishita Joshi,Pune,Maharashtra,VIP Customer
+CUST-1487,Riya Reddy,Pune,Maharashtra,Standard
+CUST-1488,Kavya Reddy,Delhi,Delhi,Frequent Buyer
+CUST-1489,Riya Kulkarni,Mumbai,Maharashtra,Frequent Buyer
+CUST-1490,Kavya Verma,Hyderabad,Telangana,Standard
+CUST-1491,Amit Verma,Hyderabad,Telangana,Frequent Buyer
+CUST-1492,Amit Patel,Kolkata,West Bengal,Frequent Buyer
+CUST-1493,Ananya Nair,Ahmedabad,Gujarat,VIP Customer
+CUST-1494,Varun Banerjee,Delhi,Delhi,VIP Customer
+CUST-1495,Ananya Verma,Ahmedabad,Gujarat,Standard
+CUST-1496,Sneha Shah,Chennai,Tamil Nadu,VIP Customer
+CUST-1497,Ananya Sharma,Hyderabad,Telangana,Standard
+CUST-1498,Riya Joshi,Ahmedabad,Gujarat,Standard
+CUST-1499,Rohan Joshi,Hyderabad,Telangana,Frequent Buyer
+CUST-1500,Varun Singh,Jaipur,Rajasthan,Standard
+CUST-1501,Ananya Mehta,Jaipur,Rajasthan,Standard
+CUST-1502,Sneha Sharma,Thane,Maharashtra,VIP Customer
+CUST-1503,Aditya Mehta,Bengaluru,Karnataka,Standard
+CUST-1504,Siddharth Joshi,Pune,Maharashtra,Standard
+CUST-1505,Pooja Rao,Bengaluru,Karnataka,Standard
+CUST-1506,Ananya Kulkarni,Delhi,Delhi,Frequent Buyer
+CUST-1507,Meera Kulkarni,Mumbai,Maharashtra,VIP Customer
+CUST-1508,Aarav Nair,Mumbai,Maharashtra,Standard
+CUST-1509,Karan Singh,Thane,Maharashtra,Frequent Buyer
+CUST-1510,Siddharth Kulkarni,Jaipur,Rajasthan,Standard
+CUST-1511,Ishita Verma,Hyderabad,Telangana,Standard
+CUST-1512,Varun Banerjee,Jaipur,Rajasthan,Standard
+CUST-1513,Rahul Sharma,Hyderabad,Telangana,Standard
+CUST-1514,Pooja Sharma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1515,Nikhil Shah,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1516,Priya Patel,Jaipur,Rajasthan,Frequent Buyer
+CUST-1517,Pooja Kulkarni,Thane,Maharashtra,Frequent Buyer
+CUST-1518,Aarav Mehta,Hyderabad,Telangana,VIP Customer
+CUST-1519,Meera Singh,Delhi,Delhi,Standard
+CUST-1520,Kavya Rao,Jaipur,Rajasthan,Standard
+CUST-1521,Nikhil Nair,Jaipur,Rajasthan,Frequent Buyer
+CUST-1522,Sneha Nair,Delhi,Delhi,Standard
+CUST-1523,Varun Nair,Mumbai,Maharashtra,Standard
+CUST-1524,Nikhil Deshmukh,Chennai,Tamil Nadu,Standard
+CUST-1525,Rohan Shah,Chennai,Tamil Nadu,Standard
+CUST-1526,Karan Mehta,Hyderabad,Telangana,Frequent Buyer
+CUST-1527,Siddharth Gupta,Pune,Maharashtra,Standard
+CUST-1528,Varun Deshmukh,Thane,Maharashtra,Standard
+CUST-1529,Amit Shah,Ahmedabad,Gujarat,VIP Customer
+CUST-1530,Nikhil Rao,Pune,Maharashtra,Standard
+CUST-1531,Meera Banerjee,Pune,Maharashtra,Standard
+CUST-1532,Sneha Joshi,Bengaluru,Karnataka,Standard
+CUST-1533,Ishita Chopra,Mumbai,Maharashtra,Standard
+CUST-1534,Neha Gupta,Hyderabad,Telangana,Standard
+CUST-1535,Priya Gupta,Mumbai,Maharashtra,Standard
+CUST-1536,Vikram Chopra,Mumbai,Maharashtra,Frequent Buyer
+CUST-1537,Kavya Banerjee,Thane,Maharashtra,Standard
+CUST-1538,Nikhil Verma,Chennai,Tamil Nadu,Standard
+CUST-1539,Aditya Chopra,Mumbai,Maharashtra,Frequent Buyer
+CUST-1540,Riya Sharma,Ahmedabad,Gujarat,Standard
+CUST-1541,Sneha Patel,Bengaluru,Karnataka,Standard
+CUST-1542,Rahul Kulkarni,Mumbai,Maharashtra,Standard
+CUST-1543,Aarav Reddy,Jaipur,Rajasthan,Frequent Buyer
+CUST-1544,Aditya Banerjee,Chennai,Tamil Nadu,Standard
+CUST-1545,Aarav Kulkarni,Jaipur,Rajasthan,Frequent Buyer
+CUST-1546,Rohan Reddy,Jaipur,Rajasthan,Frequent Buyer
+CUST-1547,Aarav Rao,Thane,Maharashtra,Standard
+CUST-1548,Rohan Gupta,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1549,Karan Kulkarni,Thane,Maharashtra,Frequent Buyer
+CUST-1550,Sneha Kulkarni,Delhi,Delhi,Frequent Buyer
+CUST-1551,Ananya Shah,Jaipur,Rajasthan,Frequent Buyer
+CUST-1552,Aarav Gupta,Mumbai,Maharashtra,VIP Customer
+CUST-1553,Nikhil Chopra,Jaipur,Rajasthan,Frequent Buyer
+CUST-1554,Amit Shah,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1555,Kavya Singh,Mumbai,Maharashtra,Frequent Buyer
+CUST-1556,Priya Verma,Thane,Maharashtra,Frequent Buyer
+CUST-1557,Aarav Singh,Ahmedabad,Gujarat,Standard
+CUST-1558,Ishita Singh,Bengaluru,Karnataka,Standard
+CUST-1559,Rahul Nair,Ahmedabad,Gujarat,Standard
+CUST-1560,Aarav Sharma,Kolkata,West Bengal,Standard
+CUST-1561,Ananya Rao,Ahmedabad,Gujarat,Standard
+CUST-1562,Siddharth Mehta,Kolkata,West Bengal,VIP Customer
+CUST-1563,Meera Shah,Bengaluru,Karnataka,Standard
+CUST-1564,Meera Kulkarni,Bengaluru,Karnataka,Standard
+CUST-1565,Rahul Sharma,Jaipur,Rajasthan,Standard
+CUST-1566,Aditya Banerjee,Delhi,Delhi,Standard
+CUST-1567,Kavya Sharma,Ahmedabad,Gujarat,Standard
+CUST-1568,Meera Singh,Delhi,Delhi,Frequent Buyer
+CUST-1569,Amit Singh,Kolkata,West Bengal,Standard
+CUST-1570,Nikhil Gupta,Bengaluru,Karnataka,VIP Customer
+CUST-1571,Kavya Chopra,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1572,Rohan Verma,Bengaluru,Karnataka,VIP Customer
+CUST-1573,Varun Chopra,Pune,Maharashtra,Frequent Buyer
+CUST-1574,Rohan Singh,Mumbai,Maharashtra,Frequent Buyer
+CUST-1575,Rohan Nair,Jaipur,Rajasthan,Frequent Buyer
+CUST-1576,Vikram Shah,Bengaluru,Karnataka,Frequent Buyer
+CUST-1577,Aarav Sharma,Kolkata,West Bengal,Standard
+CUST-1578,Ishita Gupta,Hyderabad,Telangana,Standard
+CUST-1579,Sneha Mehta,Chennai,Tamil Nadu,Standard
+CUST-1580,Kavya Singh,Ahmedabad,Gujarat,Standard
+CUST-1581,Aarav Gupta,Chennai,Tamil Nadu,Standard
+CUST-1582,Rohan Mehta,Delhi,Delhi,Standard
+CUST-1583,Karan Verma,Jaipur,Rajasthan,Standard
+CUST-1584,Diya Gupta,Mumbai,Maharashtra,Standard
+CUST-1585,Ananya Chopra,Kolkata,West Bengal,Standard
+CUST-1586,Neha Verma,Delhi,Delhi,Standard
+CUST-1587,Amit Banerjee,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1588,Riya Mehta,Thane,Maharashtra,Frequent Buyer
+CUST-1589,Diya Nair,Pune,Maharashtra,Frequent Buyer
+CUST-1590,Kavya Patel,Delhi,Delhi,Standard
+CUST-1591,Rahul Mehta,Hyderabad,Telangana,Standard
+CUST-1592,Nikhil Nair,Delhi,Delhi,Standard
+CUST-1593,Sneha Mehta,Pune,Maharashtra,Frequent Buyer
+CUST-1594,Ishita Kulkarni,Bengaluru,Karnataka,Frequent Buyer
+CUST-1595,Aditya Kulkarni,Pune,Maharashtra,Frequent Buyer
+CUST-1596,Amit Patel,Ahmedabad,Gujarat,Standard
+CUST-1597,Neha Joshi,Mumbai,Maharashtra,Frequent Buyer
+CUST-1598,Neha Gupta,Hyderabad,Telangana,Frequent Buyer
+CUST-1599,Kavya Kulkarni,Pune,Maharashtra,Frequent Buyer
+CUST-1600,Diya Kulkarni,Hyderabad,Telangana,Standard
+CUST-1601,Pooja Gupta,Ahmedabad,Gujarat,Standard
+CUST-1602,Nikhil Sharma,Pune,Maharashtra,Standard
+CUST-1603,Pooja Banerjee,Delhi,Delhi,Frequent Buyer
+CUST-1604,Priya Verma,Bengaluru,Karnataka,Frequent Buyer
+CUST-1605,Diya Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-1606,Neha Banerjee,Hyderabad,Telangana,Frequent Buyer
+CUST-1607,Diya Rao,Ahmedabad,Gujarat,Standard
+CUST-1608,Karan Chopra,Jaipur,Rajasthan,Standard
+CUST-1609,Riya Nair,Jaipur,Rajasthan,Frequent Buyer
+CUST-1610,Diya Banerjee,Jaipur,Rajasthan,Frequent Buyer
+CUST-1611,Meera Joshi,Hyderabad,Telangana,Frequent Buyer
+CUST-1612,Vikram Mehta,Thane,Maharashtra,VIP Customer
+CUST-1613,Siddharth Sharma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1614,Diya Deshmukh,Hyderabad,Telangana,Standard
+CUST-1615,Sneha Sharma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1616,Nikhil Gupta,Hyderabad,Telangana,Frequent Buyer
+CUST-1617,Sneha Joshi,Bengaluru,Karnataka,Standard
+CUST-1618,Aarav Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1619,Riya Chopra,Ahmedabad,Gujarat,Standard
+CUST-1620,Kavya Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-1621,Karan Kulkarni,Jaipur,Rajasthan,Standard
+CUST-1622,Neha Shah,Delhi,Delhi,Standard
+CUST-1623,Neha Sharma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1624,Amit Sharma,Thane,Maharashtra,Standard
+CUST-1625,Rohan Patel,Delhi,Delhi,Standard
+CUST-1626,Meera Shah,Hyderabad,Telangana,Standard
+CUST-1627,Diya Joshi,Kolkata,West Bengal,Standard
+CUST-1628,Varun Singh,Delhi,Delhi,Frequent Buyer
+CUST-1629,Priya Sharma,Jaipur,Rajasthan,Frequent Buyer
+CUST-1630,Priya Gupta,Kolkata,West Bengal,Frequent Buyer
+CUST-1631,Nikhil Gupta,Bengaluru,Karnataka,Frequent Buyer
+CUST-1632,Ishita Sharma,Hyderabad,Telangana,Standard
+CUST-1633,Neha Verma,Thane,Maharashtra,VIP Customer
+CUST-1634,Rahul Patel,Bengaluru,Karnataka,Standard
+CUST-1635,Neha Singh,Jaipur,Rajasthan,Standard
+CUST-1636,Karan Chopra,Thane,Maharashtra,VIP Customer
+CUST-1637,Diya Verma,Bengaluru,Karnataka,Standard
+CUST-1638,Diya Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-1639,Amit Joshi,Ahmedabad,Gujarat,Standard
+CUST-1640,Riya Banerjee,Jaipur,Rajasthan,Standard
+CUST-1641,Amit Gupta,Thane,Maharashtra,Standard
+CUST-1642,Neha Chopra,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1643,Sneha Sharma,Delhi,Delhi,Standard
+CUST-1644,Aditya Kulkarni,Jaipur,Rajasthan,Standard
+CUST-1645,Vikram Nair,Mumbai,Maharashtra,Standard
+CUST-1646,Neha Reddy,Delhi,Delhi,Standard
+CUST-1647,Diya Chopra,Ahmedabad,Gujarat,Standard
+CUST-1648,Siddharth Chopra,Mumbai,Maharashtra,Standard
+CUST-1649,Rohan Joshi,Delhi,Delhi,VIP Customer
+CUST-1650,Rahul Kulkarni,Thane,Maharashtra,VIP Customer
+CUST-1651,Kavya Singh,Jaipur,Rajasthan,VIP Customer
+CUST-1652,Aarav Kulkarni,Delhi,Delhi,Frequent Buyer
+CUST-1653,Aditya Patel,Kolkata,West Bengal,Standard
+CUST-1654,Amit Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-1655,Nikhil Gupta,Pune,Maharashtra,Standard
+CUST-1656,Meera Nair,Delhi,Delhi,Standard
+CUST-1657,Diya Verma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1658,Siddharth Banerjee,Pune,Maharashtra,Frequent Buyer
+CUST-1659,Ananya Rao,Pune,Maharashtra,Standard
+CUST-1660,Rahul Verma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1661,Ishita Chopra,Jaipur,Rajasthan,Standard
+CUST-1662,Pooja Sharma,Thane,Maharashtra,Standard
+CUST-1663,Varun Singh,Jaipur,Rajasthan,Standard
+CUST-1664,Kavya Gupta,Pune,Maharashtra,Frequent Buyer
+CUST-1665,Varun Shah,Jaipur,Rajasthan,Frequent Buyer
+CUST-1666,Priya Sharma,Hyderabad,Telangana,Standard
+CUST-1667,Vikram Kulkarni,Delhi,Delhi,Standard
+CUST-1668,Neha Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-1669,Ishita Patel,Kolkata,West Bengal,Standard
+CUST-1670,Varun Chopra,Chennai,Tamil Nadu,Standard
+CUST-1671,Amit Banerjee,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1672,Ishita Shah,Delhi,Delhi,Standard
+CUST-1673,Rohan Deshmukh,Delhi,Delhi,Frequent Buyer
+CUST-1674,Meera Kulkarni,Thane,Maharashtra,Standard
+CUST-1675,Priya Reddy,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1676,Riya Reddy,Jaipur,Rajasthan,Frequent Buyer
+CUST-1677,Amit Sharma,Bengaluru,Karnataka,Standard
+CUST-1678,Rahul Verma,Pune,Maharashtra,Standard
+CUST-1679,Priya Mehta,Delhi,Delhi,Frequent Buyer
+CUST-1680,Diya Joshi,Chennai,Tamil Nadu,Standard
+CUST-1681,Ananya Joshi,Thane,Maharashtra,Standard
+CUST-1682,Siddharth Banerjee,Jaipur,Rajasthan,Standard
+CUST-1683,Pooja Gupta,Jaipur,Rajasthan,Frequent Buyer
+CUST-1684,Neha Sharma,Pune,Maharashtra,Frequent Buyer
+CUST-1685,Kavya Joshi,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1686,Siddharth Sharma,Mumbai,Maharashtra,Frequent Buyer
+CUST-1687,Riya Banerjee,Ahmedabad,Gujarat,VIP Customer
+CUST-1688,Priya Verma,Pune,Maharashtra,Standard
+CUST-1689,Aarav Shah,Kolkata,West Bengal,Standard
+CUST-1690,Priya Gupta,Mumbai,Maharashtra,Standard
+CUST-1691,Aarav Kulkarni,Hyderabad,Telangana,Standard
+CUST-1692,Ishita Nair,Bengaluru,Karnataka,VIP Customer
+CUST-1693,Riya Deshmukh,Delhi,Delhi,Standard
+CUST-1694,Meera Reddy,Bengaluru,Karnataka,Standard
+CUST-1695,Aarav Sharma,Pune,Maharashtra,Standard
+CUST-1696,Rohan Rao,Jaipur,Rajasthan,Standard
+CUST-1697,Rahul Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-1698,Riya Chopra,Delhi,Delhi,Standard
+CUST-1699,Ishita Kulkarni,Bengaluru,Karnataka,Standard
+CUST-1700,Rahul Sharma,Bengaluru,Karnataka,VIP Customer
+CUST-1701,Ananya Patel,Mumbai,Maharashtra,VIP Customer
+CUST-1702,Pooja Gupta,Chennai,Tamil Nadu,VIP Customer
+CUST-1703,Varun Singh,Ahmedabad,Gujarat,Standard
+CUST-1704,Nikhil Sharma,Delhi,Delhi,Standard
+CUST-1705,Vikram Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-1706,Rahul Mehta,Kolkata,West Bengal,VIP Customer
+CUST-1707,Diya Mehta,Bengaluru,Karnataka,Frequent Buyer
+CUST-1708,Priya Patel,Ahmedabad,Gujarat,Standard
+CUST-1709,Meera Gupta,Bengaluru,Karnataka,VIP Customer
+CUST-1710,Varun Shah,Thane,Maharashtra,Frequent Buyer
+CUST-1711,Varun Sharma,Pune,Maharashtra,Standard
+CUST-1712,Amit Chopra,Ahmedabad,Gujarat,Standard
+CUST-1713,Nikhil Banerjee,Pune,Maharashtra,Frequent Buyer
+CUST-1714,Varun Banerjee,Mumbai,Maharashtra,Standard
+CUST-1715,Meera Shah,Chennai,Tamil Nadu,Standard
+CUST-1716,Vikram Sharma,Thane,Maharashtra,Standard
+CUST-1717,Ananya Kulkarni,Kolkata,West Bengal,Standard
+CUST-1718,Siddharth Singh,Hyderabad,Telangana,Frequent Buyer
+CUST-1719,Nikhil Patel,Kolkata,West Bengal,Standard
+CUST-1720,Vikram Mehta,Delhi,Delhi,Standard
+CUST-1721,Karan Shah,Thane,Maharashtra,Frequent Buyer
+CUST-1722,Ishita Mehta,Chennai,Tamil Nadu,Standard
+CUST-1723,Priya Reddy,Chennai,Tamil Nadu,Standard
+CUST-1724,Vikram Rao,Mumbai,Maharashtra,Standard
+CUST-1725,Aditya Chopra,Jaipur,Rajasthan,Standard
+CUST-1726,Diya Kulkarni,Hyderabad,Telangana,Standard
+CUST-1727,Amit Shah,Jaipur,Rajasthan,Frequent Buyer
+CUST-1728,Priya Kulkarni,Mumbai,Maharashtra,Frequent Buyer
+CUST-1729,Vikram Kulkarni,Pune,Maharashtra,Standard
+CUST-1730,Sneha Banerjee,Thane,Maharashtra,Frequent Buyer
+CUST-1731,Diya Reddy,Thane,Maharashtra,Standard
+CUST-1732,Aditya Verma,Thane,Maharashtra,Standard
+CUST-1733,Pooja Patel,Pune,Maharashtra,Standard
+CUST-1734,Vikram Banerjee,Mumbai,Maharashtra,Standard
+CUST-1735,Pooja Kulkarni,Delhi,Delhi,Frequent Buyer
+CUST-1736,Sneha Patel,Delhi,Delhi,Standard
+CUST-1737,Siddharth Singh,Jaipur,Rajasthan,Standard
+CUST-1738,Sneha Mehta,Bengaluru,Karnataka,Frequent Buyer
+CUST-1739,Rohan Mehta,Pune,Maharashtra,Standard
+CUST-1740,Ishita Deshmukh,Kolkata,West Bengal,Standard
+CUST-1741,Diya Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-1742,Kavya Shah,Delhi,Delhi,Standard
+CUST-1743,Varun Mehta,Hyderabad,Telangana,Standard
+CUST-1744,Varun Rao,Pune,Maharashtra,VIP Customer
+CUST-1745,Ananya Mehta,Delhi,Delhi,Standard
+CUST-1746,Amit Singh,Jaipur,Rajasthan,Frequent Buyer
+CUST-1747,Diya Nair,Pune,Maharashtra,VIP Customer
+CUST-1748,Vikram Banerjee,Chennai,Tamil Nadu,Standard
+CUST-1749,Rahul Chopra,Bengaluru,Karnataka,Standard
+CUST-1750,Aarav Rao,Jaipur,Rajasthan,Frequent Buyer
+CUST-1751,Rohan Nair,Pune,Maharashtra,Standard
+CUST-1752,Pooja Gupta,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1753,Neha Reddy,Pune,Maharashtra,Standard
+CUST-1754,Rahul Verma,Chennai,Tamil Nadu,VIP Customer
+CUST-1755,Ananya Verma,Delhi,Delhi,Standard
+CUST-1756,Vikram Sharma,Chennai,Tamil Nadu,Standard
+CUST-1757,Kavya Deshmukh,Hyderabad,Telangana,Standard
+CUST-1758,Riya Rao,Hyderabad,Telangana,Standard
+CUST-1759,Neha Joshi,Mumbai,Maharashtra,Frequent Buyer
+CUST-1760,Meera Reddy,Mumbai,Maharashtra,Standard
+CUST-1761,Sneha Deshmukh,Thane,Maharashtra,Standard
+CUST-1762,Pooja Reddy,Pune,Maharashtra,Standard
+CUST-1763,Aarav Deshmukh,Thane,Maharashtra,Standard
+CUST-1764,Ananya Shah,Thane,Maharashtra,Frequent Buyer
+CUST-1765,Vikram Banerjee,Bengaluru,Karnataka,Frequent Buyer
+CUST-1766,Rahul Singh,Jaipur,Rajasthan,Standard
+CUST-1767,Pooja Reddy,Chennai,Tamil Nadu,Standard
+CUST-1768,Aditya Kulkarni,Hyderabad,Telangana,Frequent Buyer
+CUST-1769,Amit Gupta,Bengaluru,Karnataka,Standard
+CUST-1770,Siddharth Banerjee,Pune,Maharashtra,Frequent Buyer
+CUST-1771,Nikhil Kulkarni,Jaipur,Rajasthan,VIP Customer
+CUST-1772,Riya Singh,Pune,Maharashtra,Standard
+CUST-1773,Karan Singh,Jaipur,Rajasthan,Standard
+CUST-1774,Sneha Shah,Chennai,Tamil Nadu,Standard
+CUST-1775,Karan Reddy,Delhi,Delhi,Frequent Buyer
+CUST-1776,Rohan Patel,Mumbai,Maharashtra,Frequent Buyer
+CUST-1777,Aarav Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1778,Rohan Reddy,Delhi,Delhi,Standard
+CUST-1779,Diya Banerjee,Thane,Maharashtra,Standard
+CUST-1780,Siddharth Verma,Bengaluru,Karnataka,Standard
+CUST-1781,Pooja Verma,Hyderabad,Telangana,Standard
+CUST-1782,Varun Reddy,Hyderabad,Telangana,VIP Customer
+CUST-1783,Rohan Gupta,Mumbai,Maharashtra,Frequent Buyer
+CUST-1784,Rahul Gupta,Jaipur,Rajasthan,Frequent Buyer
+CUST-1785,Neha Joshi,Jaipur,Rajasthan,Standard
+CUST-1786,Ishita Joshi,Mumbai,Maharashtra,Standard
+CUST-1787,Ishita Kulkarni,Kolkata,West Bengal,Standard
+CUST-1788,Sneha Gupta,Thane,Maharashtra,Standard
+CUST-1789,Kavya Rao,Hyderabad,Telangana,Frequent Buyer
+CUST-1790,Aarav Joshi,Kolkata,West Bengal,Frequent Buyer
+CUST-1791,Neha Patel,Hyderabad,Telangana,Frequent Buyer
+CUST-1792,Riya Nair,Bengaluru,Karnataka,Frequent Buyer
+CUST-1793,Ishita Rao,Thane,Maharashtra,Standard
+CUST-1794,Pooja Banerjee,Jaipur,Rajasthan,Frequent Buyer
+CUST-1795,Riya Banerjee,Delhi,Delhi,Standard
+CUST-1796,Vikram Kulkarni,Hyderabad,Telangana,Standard
+CUST-1797,Ishita Deshmukh,Hyderabad,Telangana,Standard
+CUST-1798,Aarav Rao,Bengaluru,Karnataka,Standard
+CUST-1799,Rahul Gupta,Kolkata,West Bengal,Standard
+CUST-1800,Karan Chopra,Mumbai,Maharashtra,Standard
+CUST-1801,Aditya Gupta,Chennai,Tamil Nadu,Standard
+CUST-1802,Siddharth Singh,Delhi,Delhi,Frequent Buyer
+CUST-1803,Siddharth Joshi,Thane,Maharashtra,Frequent Buyer
+CUST-1804,Pooja Gupta,Chennai,Tamil Nadu,Standard
+CUST-1805,Rohan Deshmukh,Hyderabad,Telangana,Standard
+CUST-1806,Ananya Gupta,Hyderabad,Telangana,Frequent Buyer
+CUST-1807,Ananya Chopra,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1808,Vikram Nair,Delhi,Delhi,Standard
+CUST-1809,Aarav Sharma,Mumbai,Maharashtra,Standard
+CUST-1810,Riya Banerjee,Bengaluru,Karnataka,Standard
+CUST-1811,Kavya Kulkarni,Pune,Maharashtra,Standard
+CUST-1812,Diya Banerjee,Hyderabad,Telangana,VIP Customer
+CUST-1813,Pooja Patel,Mumbai,Maharashtra,VIP Customer
+CUST-1814,Ishita Nair,Delhi,Delhi,Standard
+CUST-1815,Nikhil Deshmukh,Mumbai,Maharashtra,Frequent Buyer
+CUST-1816,Ananya Singh,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1817,Nikhil Mehta,Jaipur,Rajasthan,Standard
+CUST-1818,Rahul Gupta,Pune,Maharashtra,Standard
+CUST-1819,Vikram Rao,Thane,Maharashtra,Standard
+CUST-1820,Vikram Singh,Chennai,Tamil Nadu,Standard
+CUST-1821,Varun Gupta,Chennai,Tamil Nadu,Standard
+CUST-1822,Siddharth Reddy,Thane,Maharashtra,Standard
+CUST-1823,Riya Verma,Delhi,Delhi,Frequent Buyer
+CUST-1824,Rohan Shah,Mumbai,Maharashtra,Standard
+CUST-1825,Ishita Gupta,Ahmedabad,Gujarat,Standard
+CUST-1826,Nikhil Deshmukh,Bengaluru,Karnataka,Standard
+CUST-1827,Aditya Joshi,Delhi,Delhi,Standard
+CUST-1828,Priya Mehta,Delhi,Delhi,Frequent Buyer
+CUST-1829,Ishita Rao,Thane,Maharashtra,Standard
+CUST-1830,Priya Chopra,Thane,Maharashtra,Frequent Buyer
+CUST-1831,Varun Chopra,Chennai,Tamil Nadu,Standard
+CUST-1832,Kavya Sharma,Ahmedabad,Gujarat,Standard
+CUST-1833,Ishita Shah,Delhi,Delhi,Standard
+CUST-1834,Rohan Gupta,Mumbai,Maharashtra,Frequent Buyer
+CUST-1835,Riya Verma,Pune,Maharashtra,Standard
+CUST-1836,Aditya Verma,Pune,Maharashtra,Standard
+CUST-1837,Kavya Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-1838,Varun Gupta,Bengaluru,Karnataka,VIP Customer
+CUST-1839,Karan Sharma,Jaipur,Rajasthan,VIP Customer
+CUST-1840,Siddharth Sharma,Jaipur,Rajasthan,Standard
+CUST-1841,Meera Rao,Delhi,Delhi,Standard
+CUST-1842,Kavya Rao,Thane,Maharashtra,Standard
+CUST-1843,Pooja Banerjee,Kolkata,West Bengal,Frequent Buyer
+CUST-1844,Meera Verma,Delhi,Delhi,Standard
+CUST-1845,Ishita Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1846,Meera Shah,Pune,Maharashtra,Standard
+CUST-1847,Rahul Gupta,Hyderabad,Telangana,VIP Customer
+CUST-1848,Ishita Rao,Delhi,Delhi,Frequent Buyer
+CUST-1849,Kavya Sharma,Delhi,Delhi,VIP Customer
+CUST-1850,Neha Chopra,Bengaluru,Karnataka,Frequent Buyer
+CUST-1851,Aditya Reddy,Bengaluru,Karnataka,Standard
+CUST-1852,Aarav Shah,Jaipur,Rajasthan,Standard
+CUST-1853,Diya Banerjee,Thane,Maharashtra,Frequent Buyer
+CUST-1854,Siddharth Gupta,Ahmedabad,Gujarat,Standard
+CUST-1855,Kavya Mehta,Pune,Maharashtra,Standard
+CUST-1856,Diya Patel,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1857,Ananya Banerjee,Ahmedabad,Gujarat,Standard
+CUST-1858,Meera Banerjee,Thane,Maharashtra,Frequent Buyer
+CUST-1859,Pooja Chopra,Jaipur,Rajasthan,Frequent Buyer
+CUST-1860,Karan Reddy,Kolkata,West Bengal,Standard
+CUST-1861,Vikram Reddy,Bengaluru,Karnataka,Standard
+CUST-1862,Rohan Banerjee,Chennai,Tamil Nadu,Standard
+CUST-1863,Sneha Singh,Ahmedabad,Gujarat,Standard
+CUST-1864,Pooja Chopra,Mumbai,Maharashtra,Standard
+CUST-1865,Karan Kulkarni,Thane,Maharashtra,VIP Customer
+CUST-1866,Priya Nair,Thane,Maharashtra,Standard
+CUST-1867,Meera Singh,Hyderabad,Telangana,Frequent Buyer
+CUST-1868,Ananya Rao,Kolkata,West Bengal,VIP Customer
+CUST-1869,Riya Nair,Pune,Maharashtra,Frequent Buyer
+CUST-1870,Karan Reddy,Bengaluru,Karnataka,Standard
+CUST-1871,Neha Gupta,Pune,Maharashtra,Standard
+CUST-1872,Meera Gupta,Pune,Maharashtra,Frequent Buyer
+CUST-1873,Aarav Patel,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1874,Amit Kulkarni,Mumbai,Maharashtra,Standard
+CUST-1875,Aditya Gupta,Kolkata,West Bengal,Frequent Buyer
+CUST-1876,Varun Gupta,Bengaluru,Karnataka,Standard
+CUST-1877,Karan Kulkarni,Mumbai,Maharashtra,Standard
+CUST-1878,Meera Joshi,Thane,Maharashtra,Frequent Buyer
+CUST-1879,Aarav Gupta,Chennai,Tamil Nadu,Standard
+CUST-1880,Sneha Verma,Mumbai,Maharashtra,VIP Customer
+CUST-1881,Sneha Gupta,Thane,Maharashtra,Frequent Buyer
+CUST-1882,Neha Chopra,Ahmedabad,Gujarat,Standard
+CUST-1883,Sneha Shah,Chennai,Tamil Nadu,Standard
+CUST-1884,Vikram Chopra,Hyderabad,Telangana,Frequent Buyer
+CUST-1885,Nikhil Kulkarni,Hyderabad,Telangana,Standard
+CUST-1886,Meera Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-1887,Pooja Joshi,Ahmedabad,Gujarat,Standard
+CUST-1888,Amit Mehta,Ahmedabad,Gujarat,Standard
+CUST-1889,Nikhil Gupta,Thane,Maharashtra,Standard
+CUST-1890,Rohan Reddy,Hyderabad,Telangana,Standard
+CUST-1891,Ishita Sharma,Hyderabad,Telangana,Frequent Buyer
+CUST-1892,Vikram Rao,Thane,Maharashtra,Standard
+CUST-1893,Rohan Singh,Bengaluru,Karnataka,Standard
+CUST-1894,Aditya Sharma,Delhi,Delhi,Frequent Buyer
+CUST-1895,Diya Banerjee,Thane,Maharashtra,Standard
+CUST-1896,Rahul Nair,Bengaluru,Karnataka,Standard
+CUST-1897,Karan Kulkarni,Delhi,Delhi,Frequent Buyer
+CUST-1898,Ishita Deshmukh,Pune,Maharashtra,Standard
+CUST-1899,Siddharth Singh,Jaipur,Rajasthan,Standard
+CUST-1900,Nikhil Verma,Mumbai,Maharashtra,Standard
+CUST-1901,Sneha Reddy,Thane,Maharashtra,Frequent Buyer
+CUST-1902,Rohan Gupta,Jaipur,Rajasthan,Frequent Buyer
+CUST-1903,Ishita Sharma,Ahmedabad,Gujarat,Standard
+CUST-1904,Meera Rao,Hyderabad,Telangana,Frequent Buyer
+CUST-1905,Aarav Joshi,Bengaluru,Karnataka,Frequent Buyer
+CUST-1906,Diya Mehta,Hyderabad,Telangana,Standard
+CUST-1907,Neha Gupta,Mumbai,Maharashtra,VIP Customer
+CUST-1908,Diya Verma,Chennai,Tamil Nadu,Standard
+CUST-1909,Aditya Rao,Hyderabad,Telangana,VIP Customer
+CUST-1910,Rohan Singh,Bengaluru,Karnataka,Standard
+CUST-1911,Aarav Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-1912,Nikhil Chopra,Bengaluru,Karnataka,Standard
+CUST-1913,Ananya Nair,Chennai,Tamil Nadu,Standard
+CUST-1914,Ananya Kulkarni,Pune,Maharashtra,Standard
+CUST-1915,Aditya Mehta,Jaipur,Rajasthan,Standard
+CUST-1916,Sneha Mehta,Delhi,Delhi,Frequent Buyer
+CUST-1917,Sneha Rao,Thane,Maharashtra,Standard
+CUST-1918,Aarav Patel,Mumbai,Maharashtra,Frequent Buyer
+CUST-1919,Diya Rao,Pune,Maharashtra,Standard
+CUST-1920,Diya Shah,Pune,Maharashtra,Standard
+CUST-1921,Vikram Banerjee,Hyderabad,Telangana,Standard
+CUST-1922,Rohan Chopra,Hyderabad,Telangana,VIP Customer
+CUST-1923,Neha Deshmukh,Bengaluru,Karnataka,Frequent Buyer
+CUST-1924,Meera Mehta,Kolkata,West Bengal,Standard
+CUST-1925,Riya Chopra,Thane,Maharashtra,Standard
+CUST-1926,Vikram Rao,Jaipur,Rajasthan,Standard
+CUST-1927,Ishita Reddy,Kolkata,West Bengal,Standard
+CUST-1928,Meera Kulkarni,Kolkata,West Bengal,Standard
+CUST-1929,Amit Mehta,Thane,Maharashtra,Standard
+CUST-1930,Ishita Rao,Bengaluru,Karnataka,Frequent Buyer
+CUST-1931,Varun Verma,Thane,Maharashtra,Frequent Buyer
+CUST-1932,Aditya Chopra,Jaipur,Rajasthan,Standard
+CUST-1933,Meera Banerjee,Pune,Maharashtra,Frequent Buyer
+CUST-1934,Aarav Rao,Mumbai,Maharashtra,Standard
+CUST-1935,Karan Sharma,Chennai,Tamil Nadu,Standard
+CUST-1936,Nikhil Joshi,Delhi,Delhi,Standard
+CUST-1937,Kavya Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-1938,Siddharth Sharma,Thane,Maharashtra,VIP Customer
+CUST-1939,Varun Patel,Hyderabad,Telangana,Standard
+CUST-1940,Aditya Verma,Pune,Maharashtra,Standard
+CUST-1941,Pooja Gupta,Delhi,Delhi,Frequent Buyer
+CUST-1942,Varun Kulkarni,Jaipur,Rajasthan,Standard
+CUST-1943,Ishita Nair,Jaipur,Rajasthan,Standard
+CUST-1944,Varun Joshi,Pune,Maharashtra,VIP Customer
+CUST-1945,Ishita Sharma,Delhi,Delhi,Standard
+CUST-1946,Riya Rao,Hyderabad,Telangana,Standard
+CUST-1947,Sneha Patel,Bengaluru,Karnataka,Standard
+CUST-1948,Aarav Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-1949,Rahul Verma,Hyderabad,Telangana,Standard
+CUST-1950,Kavya Gupta,Jaipur,Rajasthan,Frequent Buyer
+CUST-1951,Pooja Sharma,Jaipur,Rajasthan,Standard
+CUST-1952,Ishita Nair,Delhi,Delhi,VIP Customer
+CUST-1953,Riya Verma,Hyderabad,Telangana,Standard
+CUST-1954,Siddharth Chopra,Bengaluru,Karnataka,Standard
+CUST-1955,Riya Deshmukh,Kolkata,West Bengal,Frequent Buyer
+CUST-1956,Rohan Singh,Pune,Maharashtra,VIP Customer
+CUST-1957,Ishita Kulkarni,Mumbai,Maharashtra,Standard
+CUST-1958,Nikhil Chopra,Chennai,Tamil Nadu,Standard
+CUST-1959,Aditya Reddy,Bengaluru,Karnataka,Frequent Buyer
+CUST-1960,Diya Verma,Jaipur,Rajasthan,Frequent Buyer
+CUST-1961,Priya Deshmukh,Delhi,Delhi,VIP Customer
+CUST-1962,Nikhil Singh,Chennai,Tamil Nadu,Standard
+CUST-1963,Neha Banerjee,Thane,Maharashtra,Standard
+CUST-1964,Meera Shah,Thane,Maharashtra,Standard
+CUST-1965,Siddharth Patel,Pune,Maharashtra,Standard
+CUST-1966,Vikram Shah,Pune,Maharashtra,Standard
+CUST-1967,Pooja Singh,Chennai,Tamil Nadu,VIP Customer
+CUST-1968,Riya Chopra,Hyderabad,Telangana,Standard
+CUST-1969,Rahul Joshi,Chennai,Tamil Nadu,Standard
+CUST-1970,Siddharth Rao,Kolkata,West Bengal,VIP Customer
+CUST-1971,Meera Sharma,Bengaluru,Karnataka,Standard
+CUST-1972,Varun Singh,Mumbai,Maharashtra,Standard
+CUST-1973,Kavya Patel,Hyderabad,Telangana,Frequent Buyer
+CUST-1974,Ananya Reddy,Thane,Maharashtra,Standard
+CUST-1975,Vikram Shah,Mumbai,Maharashtra,VIP Customer
+CUST-1976,Kavya Deshmukh,Mumbai,Maharashtra,Standard
+CUST-1977,Meera Nair,Hyderabad,Telangana,Frequent Buyer
+CUST-1978,Sneha Verma,Kolkata,West Bengal,VIP Customer
+CUST-1979,Aarav Verma,Hyderabad,Telangana,Frequent Buyer
+CUST-1980,Karan Chopra,Ahmedabad,Gujarat,Frequent Buyer
+CUST-1981,Ananya Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-1982,Riya Banerjee,Pune,Maharashtra,VIP Customer
+CUST-1983,Kavya Verma,Thane,Maharashtra,Frequent Buyer
+CUST-1984,Pooja Deshmukh,Kolkata,West Bengal,Standard
+CUST-1985,Priya Singh,Kolkata,West Bengal,VIP Customer
+CUST-1986,Varun Verma,Mumbai,Maharashtra,Standard
+CUST-1987,Amit Gupta,Chennai,Tamil Nadu,Standard
+CUST-1988,Vikram Reddy,Thane,Maharashtra,Standard
+CUST-1989,Vikram Chopra,Chennai,Tamil Nadu,Standard
+CUST-1990,Meera Deshmukh,Bengaluru,Karnataka,VIP Customer
+CUST-1991,Diya Rao,Thane,Maharashtra,Standard
+CUST-1992,Rohan Chopra,Bengaluru,Karnataka,Standard
+CUST-1993,Riya Patel,Jaipur,Rajasthan,Frequent Buyer
+CUST-1994,Rohan Kulkarni,Kolkata,West Bengal,Frequent Buyer
+CUST-1995,Kavya Verma,Chennai,Tamil Nadu,Standard
+CUST-1996,Siddharth Patel,Jaipur,Rajasthan,Frequent Buyer
+CUST-1997,Riya Shah,Jaipur,Rajasthan,Standard
+CUST-1998,Vikram Kulkarni,Pune,Maharashtra,Standard
+CUST-1999,Pooja Reddy,Kolkata,West Bengal,Standard
+CUST-2000,Amit Shah,Pune,Maharashtra,Standard
+CUST-2001,Nikhil Shah,Jaipur,Rajasthan,Standard
+CUST-2002,Siddharth Verma,Bengaluru,Karnataka,Frequent Buyer
+CUST-2003,Diya Deshmukh,Thane,Maharashtra,Frequent Buyer
+CUST-2004,Diya Banerjee,Kolkata,West Bengal,VIP Customer
+CUST-2005,Siddharth Reddy,Thane,Maharashtra,Standard
+CUST-2006,Pooja Verma,Mumbai,Maharashtra,VIP Customer
+CUST-2007,Aditya Deshmukh,Kolkata,West Bengal,Standard
+CUST-2008,Diya Reddy,Hyderabad,Telangana,Frequent Buyer
+CUST-2009,Aarav Singh,Pune,Maharashtra,Standard
+CUST-2010,Aditya Sharma,Kolkata,West Bengal,Standard
+CUST-2011,Pooja Verma,Ahmedabad,Gujarat,Standard
+CUST-2012,Rohan Verma,Chennai,Tamil Nadu,VIP Customer
+CUST-2013,Riya Verma,Bengaluru,Karnataka,Frequent Buyer
+CUST-2014,Kavya Nair,Chennai,Tamil Nadu,Standard
+CUST-2015,Karan Nair,Hyderabad,Telangana,Standard
+CUST-2016,Varun Shah,Pune,Maharashtra,Standard
+CUST-2017,Aditya Singh,Hyderabad,Telangana,Standard
+CUST-2018,Amit Chopra,Thane,Maharashtra,Frequent Buyer
+CUST-2019,Amit Shah,Mumbai,Maharashtra,Frequent Buyer
+CUST-2020,Aarav Chopra,Ahmedabad,Gujarat,Standard
+CUST-2021,Aditya Gupta,Bengaluru,Karnataka,Frequent Buyer
+CUST-2022,Rahul Sharma,Pune,Maharashtra,Standard
+CUST-2023,Pooja Rao,Kolkata,West Bengal,VIP Customer
+CUST-2024,Karan Chopra,Pune,Maharashtra,Frequent Buyer
+CUST-2025,Varun Rao,Mumbai,Maharashtra,Frequent Buyer
+CUST-2026,Priya Kulkarni,Hyderabad,Telangana,Standard
+CUST-2027,Neha Sharma,Chennai,Tamil Nadu,Standard
+CUST-2028,Diya Nair,Delhi,Delhi,Standard
+CUST-2029,Sneha Singh,Delhi,Delhi,Frequent Buyer
+CUST-2030,Ishita Kulkarni,Delhi,Delhi,Standard
+CUST-2031,Aarav Gupta,Kolkata,West Bengal,Frequent Buyer
+CUST-2032,Diya Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-2033,Vikram Gupta,Chennai,Tamil Nadu,Standard
+CUST-2034,Neha Rao,Jaipur,Rajasthan,Standard
+CUST-2035,Priya Rao,Chennai,Tamil Nadu,Standard
+CUST-2036,Ananya Banerjee,Mumbai,Maharashtra,Frequent Buyer
+CUST-2037,Amit Reddy,Thane,Maharashtra,Standard
+CUST-2038,Riya Gupta,Mumbai,Maharashtra,Frequent Buyer
+CUST-2039,Neha Shah,Ahmedabad,Gujarat,Standard
+CUST-2040,Rahul Reddy,Chennai,Tamil Nadu,VIP Customer
+CUST-2041,Karan Deshmukh,Jaipur,Rajasthan,Frequent Buyer
+CUST-2042,Nikhil Patel,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2043,Sneha Patel,Chennai,Tamil Nadu,VIP Customer
+CUST-2044,Aditya Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-2045,Varun Mehta,Kolkata,West Bengal,Frequent Buyer
+CUST-2046,Pooja Chopra,Mumbai,Maharashtra,Standard
+CUST-2047,Pooja Banerjee,Kolkata,West Bengal,Frequent Buyer
+CUST-2048,Riya Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-2049,Neha Deshmukh,Kolkata,West Bengal,Standard
+CUST-2050,Priya Gupta,Ahmedabad,Gujarat,Standard
+CUST-2051,Varun Reddy,Chennai,Tamil Nadu,Standard
+CUST-2052,Ishita Chopra,Jaipur,Rajasthan,Frequent Buyer
+CUST-2053,Meera Reddy,Chennai,Tamil Nadu,Standard
+CUST-2054,Diya Singh,Jaipur,Rajasthan,Standard
+CUST-2055,Sneha Nair,Thane,Maharashtra,Standard
+CUST-2056,Meera Nair,Bengaluru,Karnataka,Frequent Buyer
+CUST-2057,Riya Deshmukh,Jaipur,Rajasthan,Frequent Buyer
+CUST-2058,Diya Joshi,Jaipur,Rajasthan,Frequent Buyer
+CUST-2059,Aditya Kulkarni,Delhi,Delhi,Standard
+CUST-2060,Kavya Deshmukh,Hyderabad,Telangana,Standard
+CUST-2061,Nikhil Shah,Delhi,Delhi,Standard
+CUST-2062,Ananya Singh,Thane,Maharashtra,Frequent Buyer
+CUST-2063,Diya Verma,Mumbai,Maharashtra,Standard
+CUST-2064,Varun Deshmukh,Jaipur,Rajasthan,Standard
+CUST-2065,Vikram Deshmukh,Kolkata,West Bengal,Frequent Buyer
+CUST-2066,Sneha Mehta,Pune,Maharashtra,Standard
+CUST-2067,Pooja Patel,Mumbai,Maharashtra,Frequent Buyer
+CUST-2068,Rahul Chopra,Thane,Maharashtra,Standard
+CUST-2069,Priya Reddy,Mumbai,Maharashtra,Frequent Buyer
+CUST-2070,Karan Deshmukh,Jaipur,Rajasthan,Frequent Buyer
+CUST-2071,Amit Verma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2072,Neha Nair,Mumbai,Maharashtra,Standard
+CUST-2073,Neha Patel,Bengaluru,Karnataka,Frequent Buyer
+CUST-2074,Nikhil Patel,Bengaluru,Karnataka,VIP Customer
+CUST-2075,Ishita Verma,Kolkata,West Bengal,Standard
+CUST-2076,Varun Sharma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2077,Vikram Shah,Jaipur,Rajasthan,Standard
+CUST-2078,Priya Joshi,Mumbai,Maharashtra,Standard
+CUST-2079,Vikram Reddy,Kolkata,West Bengal,Standard
+CUST-2080,Aarav Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-2081,Diya Patel,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2082,Rahul Kulkarni,Delhi,Delhi,Standard
+CUST-2083,Vikram Nair,Bengaluru,Karnataka,Frequent Buyer
+CUST-2084,Vikram Singh,Thane,Maharashtra,Standard
+CUST-2085,Vikram Reddy,Thane,Maharashtra,Standard
+CUST-2086,Vikram Mehta,Thane,Maharashtra,Standard
+CUST-2087,Ishita Kulkarni,Thane,Maharashtra,Standard
+CUST-2088,Diya Chopra,Mumbai,Maharashtra,Frequent Buyer
+CUST-2089,Neha Banerjee,Hyderabad,Telangana,Frequent Buyer
+CUST-2090,Karan Nair,Ahmedabad,Gujarat,Standard
+CUST-2091,Vikram Rao,Jaipur,Rajasthan,Standard
+CUST-2092,Karan Banerjee,Hyderabad,Telangana,Standard
+CUST-2093,Nikhil Mehta,Thane,Maharashtra,Standard
+CUST-2094,Aditya Banerjee,Mumbai,Maharashtra,Standard
+CUST-2095,Siddharth Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2096,Nikhil Deshmukh,Mumbai,Maharashtra,Standard
+CUST-2097,Aarav Banerjee,Mumbai,Maharashtra,Standard
+CUST-2098,Riya Patel,Mumbai,Maharashtra,Frequent Buyer
+CUST-2099,Kavya Banerjee,Mumbai,Maharashtra,Standard
+CUST-2100,Varun Deshmukh,Jaipur,Rajasthan,Frequent Buyer
+CUST-2101,Aditya Mehta,Thane,Maharashtra,Standard
+CUST-2102,Rahul Deshmukh,Delhi,Delhi,Standard
+CUST-2103,Vikram Mehta,Ahmedabad,Gujarat,Standard
+CUST-2104,Priya Sharma,Kolkata,West Bengal,Standard
+CUST-2105,Riya Banerjee,Kolkata,West Bengal,Standard
+CUST-2106,Rohan Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-2107,Amit Deshmukh,Thane,Maharashtra,Standard
+CUST-2108,Kavya Sharma,Thane,Maharashtra,Standard
+CUST-2109,Aditya Gupta,Mumbai,Maharashtra,Standard
+CUST-2110,Kavya Nair,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2111,Varun Shah,Pune,Maharashtra,Standard
+CUST-2112,Neha Sharma,Mumbai,Maharashtra,Standard
+CUST-2113,Riya Singh,Chennai,Tamil Nadu,Standard
+CUST-2114,Pooja Gupta,Thane,Maharashtra,Standard
+CUST-2115,Priya Nair,Hyderabad,Telangana,Frequent Buyer
+CUST-2116,Rahul Joshi,Chennai,Tamil Nadu,Standard
+CUST-2117,Meera Deshmukh,Hyderabad,Telangana,Frequent Buyer
+CUST-2118,Amit Gupta,Ahmedabad,Gujarat,Standard
+CUST-2119,Ishita Deshmukh,Kolkata,West Bengal,Standard
+CUST-2120,Rohan Gupta,Hyderabad,Telangana,Frequent Buyer
+CUST-2121,Diya Deshmukh,Delhi,Delhi,Frequent Buyer
+CUST-2122,Meera Kulkarni,Jaipur,Rajasthan,Standard
+CUST-2123,Riya Reddy,Delhi,Delhi,Frequent Buyer
+CUST-2124,Siddharth Gupta,Thane,Maharashtra,Standard
+CUST-2125,Siddharth Gupta,Ahmedabad,Gujarat,Standard
+CUST-2126,Amit Patel,Hyderabad,Telangana,Frequent Buyer
+CUST-2127,Rohan Nair,Hyderabad,Telangana,Standard
+CUST-2128,Pooja Deshmukh,Delhi,Delhi,Frequent Buyer
+CUST-2129,Meera Kulkarni,Thane,Maharashtra,Standard
+CUST-2130,Riya Rao,Thane,Maharashtra,Standard
+CUST-2131,Riya Verma,Kolkata,West Bengal,Standard
+CUST-2132,Sneha Shah,Chennai,Tamil Nadu,Standard
+CUST-2133,Ananya Nair,Mumbai,Maharashtra,Standard
+CUST-2134,Riya Banerjee,Thane,Maharashtra,Frequent Buyer
+CUST-2135,Priya Reddy,Kolkata,West Bengal,VIP Customer
+CUST-2136,Meera Sharma,Delhi,Delhi,Standard
+CUST-2137,Kavya Mehta,Mumbai,Maharashtra,Standard
+CUST-2138,Rahul Nair,Kolkata,West Bengal,Standard
+CUST-2139,Ananya Deshmukh,Hyderabad,Telangana,Frequent Buyer
+CUST-2140,Karan Patel,Mumbai,Maharashtra,Standard
+CUST-2141,Varun Gupta,Bengaluru,Karnataka,Standard
+CUST-2142,Karan Patel,Jaipur,Rajasthan,Standard
+CUST-2143,Kavya Chopra,Jaipur,Rajasthan,Frequent Buyer
+CUST-2144,Nikhil Sharma,Jaipur,Rajasthan,Standard
+CUST-2145,Pooja Verma,Jaipur,Rajasthan,Standard
+CUST-2146,Vikram Kulkarni,Kolkata,West Bengal,Standard
+CUST-2147,Ananya Shah,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2148,Riya Joshi,Ahmedabad,Gujarat,Standard
+CUST-2149,Rahul Mehta,Kolkata,West Bengal,Standard
+CUST-2150,Meera Chopra,Hyderabad,Telangana,Standard
+CUST-2151,Siddharth Deshmukh,Chennai,Tamil Nadu,Standard
+CUST-2152,Ishita Joshi,Chennai,Tamil Nadu,Standard
+CUST-2153,Aditya Kulkarni,Pune,Maharashtra,Frequent Buyer
+CUST-2154,Varun Gupta,Bengaluru,Karnataka,Frequent Buyer
+CUST-2155,Aarav Verma,Kolkata,West Bengal,Frequent Buyer
+CUST-2156,Meera Singh,Delhi,Delhi,VIP Customer
+CUST-2157,Priya Joshi,Kolkata,West Bengal,Standard
+CUST-2158,Rahul Verma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2159,Ananya Sharma,Kolkata,West Bengal,Frequent Buyer
+CUST-2160,Rohan Rao,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2161,Aarav Gupta,Jaipur,Rajasthan,Frequent Buyer
+CUST-2162,Aditya Rao,Pune,Maharashtra,Standard
+CUST-2163,Vikram Nair,Ahmedabad,Gujarat,Standard
+CUST-2164,Siddharth Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-2165,Varun Sharma,Ahmedabad,Gujarat,Standard
+CUST-2166,Aditya Reddy,Hyderabad,Telangana,VIP Customer
+CUST-2167,Kavya Mehta,Jaipur,Rajasthan,Standard
+CUST-2168,Priya Joshi,Kolkata,West Bengal,Frequent Buyer
+CUST-2169,Diya Patel,Hyderabad,Telangana,Standard
+CUST-2170,Aditya Banerjee,Jaipur,Rajasthan,Standard
+CUST-2171,Pooja Kulkarni,Jaipur,Rajasthan,Standard
+CUST-2172,Aarav Reddy,Chennai,Tamil Nadu,Standard
+CUST-2173,Pooja Kulkarni,Delhi,Delhi,VIP Customer
+CUST-2174,Ananya Kulkarni,Mumbai,Maharashtra,Frequent Buyer
+CUST-2175,Riya Sharma,Hyderabad,Telangana,Standard
+CUST-2176,Ishita Reddy,Bengaluru,Karnataka,Standard
+CUST-2177,Ishita Banerjee,Chennai,Tamil Nadu,Standard
+CUST-2178,Ananya Banerjee,Mumbai,Maharashtra,Standard
+CUST-2179,Rohan Banerjee,Jaipur,Rajasthan,Standard
+CUST-2180,Amit Rao,Mumbai,Maharashtra,Standard
+CUST-2181,Rahul Singh,Bengaluru,Karnataka,Standard
+CUST-2182,Varun Singh,Hyderabad,Telangana,Frequent Buyer
+CUST-2183,Ananya Joshi,Ahmedabad,Gujarat,Standard
+CUST-2184,Rohan Rao,Delhi,Delhi,Frequent Buyer
+CUST-2185,Ananya Singh,Jaipur,Rajasthan,Frequent Buyer
+CUST-2186,Sneha Verma,Hyderabad,Telangana,Frequent Buyer
+CUST-2187,Pooja Chopra,Thane,Maharashtra,VIP Customer
+CUST-2188,Ishita Verma,Kolkata,West Bengal,Standard
+CUST-2189,Diya Nair,Bengaluru,Karnataka,VIP Customer
+CUST-2190,Meera Patel,Bengaluru,Karnataka,Standard
+CUST-2191,Karan Mehta,Bengaluru,Karnataka,Standard
+CUST-2192,Meera Gupta,Thane,Maharashtra,Frequent Buyer
+CUST-2193,Kavya Patel,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2194,Priya Banerjee,Chennai,Tamil Nadu,Standard
+CUST-2195,Amit Kulkarni,Delhi,Delhi,VIP Customer
+CUST-2196,Varun Deshmukh,Pune,Maharashtra,Standard
+CUST-2197,Neha Singh,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2198,Nikhil Reddy,Jaipur,Rajasthan,Standard
+CUST-2199,Priya Kulkarni,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2200,Ananya Verma,Ahmedabad,Gujarat,Standard
+CUST-2201,Siddharth Banerjee,Pune,Maharashtra,Frequent Buyer
+CUST-2202,Ananya Nair,Hyderabad,Telangana,Standard
+CUST-2203,Sneha Deshmukh,Thane,Maharashtra,Frequent Buyer
+CUST-2204,Siddharth Sharma,Bengaluru,Karnataka,Standard
+CUST-2205,Priya Patel,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2206,Diya Banerjee,Hyderabad,Telangana,Frequent Buyer
+CUST-2207,Ananya Singh,Pune,Maharashtra,Standard
+CUST-2208,Meera Mehta,Pune,Maharashtra,Standard
+CUST-2209,Varun Deshmukh,Thane,Maharashtra,Standard
+CUST-2210,Pooja Gupta,Kolkata,West Bengal,Standard
+CUST-2211,Nikhil Nair,Ahmedabad,Gujarat,Standard
+CUST-2212,Rohan Chopra,Pune,Maharashtra,Standard
+CUST-2213,Priya Sharma,Mumbai,Maharashtra,Frequent Buyer
+CUST-2214,Diya Joshi,Ahmedabad,Gujarat,Standard
+CUST-2215,Rohan Joshi,Delhi,Delhi,Standard
+CUST-2216,Neha Mehta,Delhi,Delhi,VIP Customer
+CUST-2217,Sneha Reddy,Kolkata,West Bengal,Frequent Buyer
+CUST-2218,Riya Mehta,Bengaluru,Karnataka,Frequent Buyer
+CUST-2219,Priya Chopra,Ahmedabad,Gujarat,Standard
+CUST-2220,Sneha Gupta,Jaipur,Rajasthan,Standard
+CUST-2221,Nikhil Nair,Jaipur,Rajasthan,VIP Customer
+CUST-2222,Ananya Gupta,Jaipur,Rajasthan,Frequent Buyer
+CUST-2223,Siddharth Sharma,Jaipur,Rajasthan,Standard
+CUST-2224,Amit Sharma,Delhi,Delhi,Frequent Buyer
+CUST-2225,Varun Singh,Thane,Maharashtra,Standard
+CUST-2226,Diya Mehta,Pune,Maharashtra,Standard
+CUST-2227,Varun Reddy,Bengaluru,Karnataka,Standard
+CUST-2228,Nikhil Deshmukh,Mumbai,Maharashtra,Standard
+CUST-2229,Kavya Shah,Thane,Maharashtra,Standard
+CUST-2230,Amit Mehta,Chennai,Tamil Nadu,Standard
+CUST-2231,Kavya Nair,Hyderabad,Telangana,Frequent Buyer
+CUST-2232,Riya Deshmukh,Ahmedabad,Gujarat,Standard
+CUST-2233,Ananya Deshmukh,Pune,Maharashtra,Standard
+CUST-2234,Kavya Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-2235,Aditya Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-2236,Ishita Deshmukh,Kolkata,West Bengal,Standard
+CUST-2237,Amit Sharma,Delhi,Delhi,Standard
+CUST-2238,Kavya Mehta,Hyderabad,Telangana,Standard
+CUST-2239,Meera Patel,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2240,Amit Sharma,Chennai,Tamil Nadu,Standard
+CUST-2241,Aditya Kulkarni,Mumbai,Maharashtra,Frequent Buyer
+CUST-2242,Amit Patel,Kolkata,West Bengal,Frequent Buyer
+CUST-2243,Diya Shah,Chennai,Tamil Nadu,Standard
+CUST-2244,Siddharth Gupta,Pune,Maharashtra,Standard
+CUST-2245,Ananya Kulkarni,Jaipur,Rajasthan,Standard
+CUST-2246,Ishita Rao,Bengaluru,Karnataka,VIP Customer
+CUST-2247,Riya Sharma,Pune,Maharashtra,Standard
+CUST-2248,Meera Reddy,Mumbai,Maharashtra,Frequent Buyer
+CUST-2249,Rahul Reddy,Kolkata,West Bengal,Standard
+CUST-2250,Aarav Nair,Delhi,Delhi,Standard
+CUST-2251,Pooja Mehta,Ahmedabad,Gujarat,Standard
+CUST-2252,Rahul Chopra,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2253,Diya Joshi,Thane,Maharashtra,Frequent Buyer
+CUST-2254,Diya Joshi,Ahmedabad,Gujarat,Standard
+CUST-2255,Meera Shah,Ahmedabad,Gujarat,Standard
+CUST-2256,Riya Sharma,Pune,Maharashtra,Frequent Buyer
+CUST-2257,Neha Joshi,Mumbai,Maharashtra,Standard
+CUST-2258,Nikhil Kulkarni,Pune,Maharashtra,Standard
+CUST-2259,Ishita Sharma,Thane,Maharashtra,Standard
+CUST-2260,Ishita Reddy,Mumbai,Maharashtra,Standard
+CUST-2261,Amit Kulkarni,Kolkata,West Bengal,Standard
+CUST-2262,Ananya Verma,Kolkata,West Bengal,Standard
+CUST-2263,Varun Nair,Pune,Maharashtra,Standard
+CUST-2264,Kavya Reddy,Delhi,Delhi,Standard
+CUST-2265,Priya Reddy,Mumbai,Maharashtra,Frequent Buyer
+CUST-2266,Varun Kulkarni,Mumbai,Maharashtra,Standard
+CUST-2267,Amit Banerjee,Delhi,Delhi,Standard
+CUST-2268,Rahul Nair,Pune,Maharashtra,Standard
+CUST-2269,Amit Gupta,Hyderabad,Telangana,Standard
+CUST-2270,Riya Chopra,Ahmedabad,Gujarat,Standard
+CUST-2271,Aditya Shah,Jaipur,Rajasthan,Frequent Buyer
+CUST-2272,Vikram Sharma,Hyderabad,Telangana,VIP Customer
+CUST-2273,Kavya Chopra,Bengaluru,Karnataka,VIP Customer
+CUST-2274,Riya Reddy,Hyderabad,Telangana,Standard
+CUST-2275,Siddharth Gupta,Jaipur,Rajasthan,Standard
+CUST-2276,Aditya Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-2277,Riya Joshi,Bengaluru,Karnataka,VIP Customer
+CUST-2278,Amit Rao,Delhi,Delhi,Standard
+CUST-2279,Rahul Banerjee,Chennai,Tamil Nadu,Standard
+CUST-2280,Nikhil Gupta,Hyderabad,Telangana,Standard
+CUST-2281,Ishita Deshmukh,Mumbai,Maharashtra,Standard
+CUST-2282,Karan Verma,Thane,Maharashtra,Standard
+CUST-2283,Neha Deshmukh,Jaipur,Rajasthan,Standard
+CUST-2284,Pooja Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2285,Vikram Rao,Ahmedabad,Gujarat,Standard
+CUST-2286,Rohan Sharma,Pune,Maharashtra,Standard
+CUST-2287,Ananya Rao,Delhi,Delhi,Frequent Buyer
+CUST-2288,Sneha Shah,Kolkata,West Bengal,Standard
+CUST-2289,Riya Patel,Mumbai,Maharashtra,Standard
+CUST-2290,Ananya Reddy,Bengaluru,Karnataka,Frequent Buyer
+CUST-2291,Riya Rao,Hyderabad,Telangana,Standard
+CUST-2292,Sneha Gupta,Thane,Maharashtra,Frequent Buyer
+CUST-2293,Nikhil Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2294,Sneha Shah,Bengaluru,Karnataka,Standard
+CUST-2295,Rahul Singh,Kolkata,West Bengal,Frequent Buyer
+CUST-2296,Nikhil Nair,Pune,Maharashtra,Standard
+CUST-2297,Meera Chopra,Kolkata,West Bengal,Standard
+CUST-2298,Priya Chopra,Mumbai,Maharashtra,Standard
+CUST-2299,Pooja Rao,Delhi,Delhi,VIP Customer
+CUST-2300,Varun Deshmukh,Thane,Maharashtra,Frequent Buyer
+CUST-2301,Meera Deshmukh,Pune,Maharashtra,Frequent Buyer
+CUST-2302,Rohan Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-2303,Nikhil Reddy,Bengaluru,Karnataka,VIP Customer
+CUST-2304,Nikhil Nair,Thane,Maharashtra,Frequent Buyer
+CUST-2305,Pooja Deshmukh,Chennai,Tamil Nadu,Standard
+CUST-2306,Nikhil Shah,Ahmedabad,Gujarat,Standard
+CUST-2307,Nikhil Reddy,Chennai,Tamil Nadu,Standard
+CUST-2308,Ananya Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2309,Sneha Deshmukh,Kolkata,West Bengal,Frequent Buyer
+CUST-2310,Varun Mehta,Bengaluru,Karnataka,Standard
+CUST-2311,Amit Shah,Ahmedabad,Gujarat,Standard
+CUST-2312,Siddharth Gupta,Jaipur,Rajasthan,Standard
+CUST-2313,Meera Singh,Kolkata,West Bengal,Standard
+CUST-2314,Pooja Rao,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2315,Rohan Deshmukh,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2316,Amit Verma,Jaipur,Rajasthan,Frequent Buyer
+CUST-2317,Priya Verma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2318,Sneha Shah,Bengaluru,Karnataka,Frequent Buyer
+CUST-2319,Aarav Nair,Jaipur,Rajasthan,Standard
+CUST-2320,Aarav Singh,Ahmedabad,Gujarat,Standard
+CUST-2321,Karan Gupta,Hyderabad,Telangana,Standard
+CUST-2322,Priya Nair,Mumbai,Maharashtra,Standard
+CUST-2323,Rahul Rao,Bengaluru,Karnataka,Standard
+CUST-2324,Aarav Deshmukh,Hyderabad,Telangana,Standard
+CUST-2325,Aditya Reddy,Hyderabad,Telangana,Standard
+CUST-2326,Kavya Reddy,Delhi,Delhi,Frequent Buyer
+CUST-2327,Priya Verma,Jaipur,Rajasthan,Standard
+CUST-2328,Ishita Gupta,Jaipur,Rajasthan,Frequent Buyer
+CUST-2329,Rahul Sharma,Bengaluru,Karnataka,VIP Customer
+CUST-2330,Sneha Rao,Mumbai,Maharashtra,Standard
+CUST-2331,Aditya Reddy,Mumbai,Maharashtra,Frequent Buyer
+CUST-2332,Varun Nair,Ahmedabad,Gujarat,VIP Customer
+CUST-2333,Aarav Chopra,Kolkata,West Bengal,Frequent Buyer
+CUST-2334,Aarav Rao,Hyderabad,Telangana,Frequent Buyer
+CUST-2335,Pooja Patel,Jaipur,Rajasthan,Standard
+CUST-2336,Ananya Rao,Thane,Maharashtra,Standard
+CUST-2337,Varun Sharma,Delhi,Delhi,Standard
+CUST-2338,Meera Patel,Delhi,Delhi,Frequent Buyer
+CUST-2339,Priya Sharma,Thane,Maharashtra,Standard
+CUST-2340,Amit Sharma,Jaipur,Rajasthan,Standard
+CUST-2341,Riya Deshmukh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2342,Ishita Shah,Hyderabad,Telangana,Standard
+CUST-2343,Siddharth Deshmukh,Kolkata,West Bengal,Standard
+CUST-2344,Amit Shah,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2345,Pooja Banerjee,Hyderabad,Telangana,Frequent Buyer
+CUST-2346,Rahul Patel,Ahmedabad,Gujarat,Standard
+CUST-2347,Pooja Kulkarni,Bengaluru,Karnataka,VIP Customer
+CUST-2348,Karan Mehta,Delhi,Delhi,Standard
+CUST-2349,Varun Banerjee,Hyderabad,Telangana,Standard
+CUST-2350,Siddharth Deshmukh,Pune,Maharashtra,Standard
+CUST-2351,Aditya Shah,Pune,Maharashtra,Standard
+CUST-2352,Ishita Joshi,Delhi,Delhi,Standard
+CUST-2353,Nikhil Gupta,Delhi,Delhi,Standard
+CUST-2354,Aarav Chopra,Jaipur,Rajasthan,Standard
+CUST-2355,Ananya Sharma,Bengaluru,Karnataka,Frequent Buyer
+CUST-2356,Siddharth Banerjee,Bengaluru,Karnataka,Standard
+CUST-2357,Pooja Chopra,Thane,Maharashtra,Standard
+CUST-2358,Rahul Rao,Jaipur,Rajasthan,Standard
+CUST-2359,Rohan Shah,Kolkata,West Bengal,Standard
+CUST-2360,Vikram Rao,Pune,Maharashtra,Frequent Buyer
+CUST-2361,Neha Deshmukh,Hyderabad,Telangana,VIP Customer
+CUST-2362,Ananya Verma,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2363,Kavya Singh,Mumbai,Maharashtra,Standard
+CUST-2364,Ishita Shah,Chennai,Tamil Nadu,Standard
+CUST-2365,Karan Patel,Bengaluru,Karnataka,Standard
+CUST-2366,Sneha Singh,Jaipur,Rajasthan,Standard
+CUST-2367,Varun Reddy,Thane,Maharashtra,Standard
+CUST-2368,Aditya Singh,Hyderabad,Telangana,Standard
+CUST-2369,Rohan Gupta,Delhi,Delhi,Standard
+CUST-2370,Varun Kulkarni,Ahmedabad,Gujarat,Standard
+CUST-2371,Rahul Chopra,Chennai,Tamil Nadu,Standard
+CUST-2372,Riya Verma,Pune,Maharashtra,Frequent Buyer
+CUST-2373,Varun Chopra,Pune,Maharashtra,Standard
+CUST-2374,Amit Joshi,Kolkata,West Bengal,Standard
+CUST-2375,Riya Patel,Bengaluru,Karnataka,Standard
+CUST-2376,Diya Patel,Mumbai,Maharashtra,Standard
+CUST-2377,Meera Sharma,Jaipur,Rajasthan,Standard
+CUST-2378,Diya Sharma,Bengaluru,Karnataka,Frequent Buyer
+CUST-2379,Nikhil Banerjee,Bengaluru,Karnataka,Standard
+CUST-2380,Priya Sharma,Delhi,Delhi,Standard
+CUST-2381,Ishita Patel,Mumbai,Maharashtra,Frequent Buyer
+CUST-2382,Priya Joshi,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2383,Siddharth Gupta,Bengaluru,Karnataka,Standard
+CUST-2384,Karan Rao,Kolkata,West Bengal,Standard
+CUST-2385,Rohan Sharma,Chennai,Tamil Nadu,VIP Customer
+CUST-2386,Nikhil Shah,Hyderabad,Telangana,Standard
+CUST-2387,Kavya Chopra,Mumbai,Maharashtra,Standard
+CUST-2388,Varun Chopra,Hyderabad,Telangana,Frequent Buyer
+CUST-2389,Vikram Sharma,Hyderabad,Telangana,Standard
+CUST-2390,Sneha Reddy,Bengaluru,Karnataka,Frequent Buyer
+CUST-2391,Ishita Shah,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2392,Pooja Nair,Delhi,Delhi,Standard
+CUST-2393,Meera Mehta,Pune,Maharashtra,Standard
+CUST-2394,Rahul Banerjee,Pune,Maharashtra,Frequent Buyer
+CUST-2395,Aditya Nair,Mumbai,Maharashtra,Standard
+CUST-2396,Rahul Banerjee,Chennai,Tamil Nadu,Standard
+CUST-2397,Vikram Sharma,Thane,Maharashtra,Frequent Buyer
+CUST-2398,Amit Mehta,Kolkata,West Bengal,Standard
+CUST-2399,Aarav Rao,Bengaluru,Karnataka,Standard
+CUST-2400,Aarav Mehta,Thane,Maharashtra,Standard
+CUST-2401,Aarav Sharma,Jaipur,Rajasthan,Standard
+CUST-2402,Rahul Kulkarni,Bengaluru,Karnataka,VIP Customer
+CUST-2403,Meera Shah,Jaipur,Rajasthan,Standard
+CUST-2404,Diya Sharma,Jaipur,Rajasthan,Frequent Buyer
+CUST-2405,Nikhil Gupta,Pune,Maharashtra,Standard
+CUST-2406,Ishita Nair,Pune,Maharashtra,VIP Customer
+CUST-2407,Ananya Sharma,Pune,Maharashtra,Standard
+CUST-2408,Rahul Verma,Ahmedabad,Gujarat,Standard
+CUST-2409,Nikhil Rao,Bengaluru,Karnataka,Standard
+CUST-2410,Vikram Mehta,Mumbai,Maharashtra,Frequent Buyer
+CUST-2411,Siddharth Rao,Bengaluru,Karnataka,Standard
+CUST-2412,Nikhil Shah,Thane,Maharashtra,Standard
+CUST-2413,Pooja Banerjee,Ahmedabad,Gujarat,Standard
+CUST-2414,Sneha Mehta,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2415,Nikhil Verma,Pune,Maharashtra,Standard
+CUST-2416,Neha Sharma,Delhi,Delhi,Frequent Buyer
+CUST-2417,Aarav Singh,Ahmedabad,Gujarat,Standard
+CUST-2418,Kavya Patel,Hyderabad,Telangana,Frequent Buyer
+CUST-2419,Aarav Reddy,Chennai,Tamil Nadu,Standard
+CUST-2420,Neha Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-2421,Ananya Patel,Hyderabad,Telangana,VIP Customer
+CUST-2422,Kavya Sharma,Kolkata,West Bengal,Frequent Buyer
+CUST-2423,Karan Singh,Delhi,Delhi,Frequent Buyer
+CUST-2424,Siddharth Rao,Pune,Maharashtra,Standard
+CUST-2425,Diya Rao,Mumbai,Maharashtra,Standard
+CUST-2426,Aarav Sharma,Thane,Maharashtra,Standard
+CUST-2427,Aditya Singh,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2428,Meera Sharma,Mumbai,Maharashtra,VIP Customer
+CUST-2429,Rohan Gupta,Kolkata,West Bengal,VIP Customer
+CUST-2430,Neha Patel,Bengaluru,Karnataka,Standard
+CUST-2431,Aarav Reddy,Bengaluru,Karnataka,Standard
+CUST-2432,Vikram Reddy,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2433,Siddharth Kulkarni,Hyderabad,Telangana,Frequent Buyer
+CUST-2434,Ishita Rao,Bengaluru,Karnataka,Frequent Buyer
+CUST-2435,Ishita Mehta,Hyderabad,Telangana,Frequent Buyer
+CUST-2436,Aditya Singh,Mumbai,Maharashtra,Standard
+CUST-2437,Aditya Chopra,Kolkata,West Bengal,Standard
+CUST-2438,Aarav Rao,Pune,Maharashtra,Frequent Buyer
+CUST-2439,Diya Rao,Kolkata,West Bengal,Standard
+CUST-2440,Vikram Singh,Thane,Maharashtra,Standard
+CUST-2441,Ananya Shah,Mumbai,Maharashtra,VIP Customer
+CUST-2442,Vikram Shah,Pune,Maharashtra,Standard
+CUST-2443,Pooja Rao,Chennai,Tamil Nadu,VIP Customer
+CUST-2444,Ananya Kulkarni,Ahmedabad,Gujarat,Standard
+CUST-2445,Varun Kulkarni,Hyderabad,Telangana,Standard
+CUST-2446,Siddharth Mehta,Mumbai,Maharashtra,Standard
+CUST-2447,Meera Joshi,Kolkata,West Bengal,Frequent Buyer
+CUST-2448,Aarav Sharma,Kolkata,West Bengal,Standard
+CUST-2449,Rahul Reddy,Bengaluru,Karnataka,Standard
+CUST-2450,Aditya Joshi,Chennai,Tamil Nadu,Standard
+CUST-2451,Sneha Rao,Ahmedabad,Gujarat,Standard
+CUST-2452,Ananya Gupta,Bengaluru,Karnataka,Frequent Buyer
+CUST-2453,Karan Verma,Kolkata,West Bengal,Standard
+CUST-2454,Pooja Reddy,Jaipur,Rajasthan,Standard
+CUST-2455,Rahul Sharma,Bengaluru,Karnataka,Standard
+CUST-2456,Rohan Kulkarni,Pune,Maharashtra,Standard
+CUST-2457,Rohan Banerjee,Kolkata,West Bengal,Standard
+CUST-2458,Karan Singh,Thane,Maharashtra,Standard
+CUST-2459,Neha Sharma,Hyderabad,Telangana,Standard
+CUST-2460,Nikhil Patel,Ahmedabad,Gujarat,Standard
+CUST-2461,Siddharth Singh,Mumbai,Maharashtra,Standard
+CUST-2462,Ishita Mehta,Jaipur,Rajasthan,Standard
+CUST-2463,Aditya Joshi,Mumbai,Maharashtra,Standard
+CUST-2464,Kavya Nair,Chennai,Tamil Nadu,Standard
+CUST-2465,Nikhil Reddy,Delhi,Delhi,Standard
+CUST-2466,Siddharth Joshi,Pune,Maharashtra,Standard
+CUST-2467,Kavya Deshmukh,Chennai,Tamil Nadu,Standard
+CUST-2468,Sneha Gupta,Bengaluru,Karnataka,Standard
+CUST-2469,Meera Chopra,Pune,Maharashtra,VIP Customer
+CUST-2470,Ishita Banerjee,Kolkata,West Bengal,VIP Customer
+CUST-2471,Ishita Kulkarni,Hyderabad,Telangana,Standard
+CUST-2472,Nikhil Singh,Chennai,Tamil Nadu,Frequent Buyer
+CUST-2473,Priya Singh,Hyderabad,Telangana,Standard
+CUST-2474,Ananya Reddy,Jaipur,Rajasthan,Frequent Buyer
+CUST-2475,Nikhil Chopra,Bengaluru,Karnataka,Standard
+CUST-2476,Ishita Chopra,Kolkata,West Bengal,Standard
+CUST-2477,Nikhil Verma,Jaipur,Rajasthan,Standard
+CUST-2478,Riya Chopra,Ahmedabad,Gujarat,Standard
+CUST-2479,Aarav Mehta,Jaipur,Rajasthan,Standard
+CUST-2480,Priya Rao,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2481,Aarav Gupta,Hyderabad,Telangana,Frequent Buyer
+CUST-2482,Meera Deshmukh,Hyderabad,Telangana,Standard
+CUST-2483,Rahul Kulkarni,Kolkata,West Bengal,VIP Customer
+CUST-2484,Vikram Sharma,Ahmedabad,Gujarat,Standard
+CUST-2485,Nikhil Rao,Hyderabad,Telangana,Frequent Buyer
+CUST-2486,Aarav Banerjee,Chennai,Tamil Nadu,Standard
+CUST-2487,Rohan Kulkarni,Jaipur,Rajasthan,Frequent Buyer
+CUST-2488,Vikram Shah,Bengaluru,Karnataka,Frequent Buyer
+CUST-2489,Ananya Deshmukh,Jaipur,Rajasthan,Standard
+CUST-2490,Diya Chopra,Ahmedabad,Gujarat,Standard
+CUST-2491,Kavya Kulkarni,Chennai,Tamil Nadu,Standard
+CUST-2492,Rahul Banerjee,Hyderabad,Telangana,Frequent Buyer
+CUST-2493,Aarav Mehta,Pune,Maharashtra,Frequent Buyer
+CUST-2494,Siddharth Patel,Delhi,Delhi,Standard
+CUST-2495,Diya Kulkarni,Hyderabad,Telangana,Standard
+CUST-2496,Aditya Rao,Kolkata,West Bengal,Frequent Buyer
+CUST-2497,Aditya Reddy,Bengaluru,Karnataka,Frequent Buyer
+CUST-2498,Diya Singh,Thane,Maharashtra,Standard
+CUST-2499,Vikram Sharma,Ahmedabad,Gujarat,Frequent Buyer
+CUST-2500,Aarav Rao,Thane,Maharashtra,Standard

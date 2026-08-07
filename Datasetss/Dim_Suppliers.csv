@@ -1,0 +1,6 @@
+Supplier_ID,Supplier_Name,Sourcing_Category,Lead_Time_Days,On_Time_Delivery_Rate,Defect_Rate_Pct
+SUP-10,EcoPulp Kraft Packaging,Bamboo Paper & Pulp,5,94.5,1.2
+SUP-20,GreenBio Surfactants Ltd,Plant Bio-Enzymes,7,91.0,2.1
+SUP-30,CornPlast Biopolymers,Cornstarch Resin Bags,4,97.2,0.8
+SUP-40,PureHerb Essential Oils,Fragrances & Extracts,6,88.5,3.0
+SUP-50,Vanguard Eco Bottling,Recycled Bottles & Pumps,8,93.0,1.5
