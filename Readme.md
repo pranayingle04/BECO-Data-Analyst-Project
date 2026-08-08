@@ -43,7 +43,7 @@ Provides a complete snapshot of the business with high-level KPIs and sales perf
 - Sales Channel Distribution
 - Selling Price Analysis
 
-![Overview Dashboard](images/overview.png)
+![Overview Dashboard](Images/overview.png)
 
 ---
 
@@ -60,7 +60,7 @@ Analyze product performance across all categories.
 - Orders by Status
 - State-wise Sales
 
-![Products Dashboard](images/products.png)
+![Products Dashboard](Images/products.png)
 
 ---
 
@@ -78,7 +78,7 @@ Understand customer behavior and purchasing trends.
 - Delivery Analysis
 - Customer Table by City & State
 
-![Customers Dashboard](images/customers.png)
+![Customers Dashboard](Images/customers.png)
 
 ---
 
@@ -96,7 +96,7 @@ Track supplier performance and sales channels.
 - Monthly Supplier Performance
 - Sales by Channel
 
-![Channels Dashboard](images/channels_suppliers.png)
+![Channels Dashboard](Images/channels_suppliers.png)
 
 ---
 
@@ -286,15 +286,15 @@ This dashboard enables decision-makers to:
 
 | Home | Overview |
 |------|----------|
-| ![](images/home.png) | ![](images/overview.png) |
+| ![](Images/home.png) | ![](Images/overview.png) |
 
 | Products | Customers |
 |-----------|-----------|
-| ![](images/products.png) | ![](images/customers.png) |
+| ![](Images/products.png) | ![](Images/customers.png) |
 
 | Channels & Suppliers |
 |----------------------|
-| ![](images/channels_suppliers.png) |
+| ![](Images/channels_suppliers.png) |
 
 ---
 
